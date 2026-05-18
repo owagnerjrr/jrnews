@@ -1,17 +1,7 @@
 {
-  "updatedAt": "2026-05-18T13:45:00-03:00",
-  "editorNote": "Conteúdo inicial curado pelo Jr News. A automação diária atualiza este arquivo às 7h de Brasília quando as fontes estiverem disponíveis.",
+  "updatedAt": "2026-05-18T19:31:19.934Z",
+  "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
-    {
-      "title": "Seleção Brasileira será convocada por Carlo Ancelotti nesta segunda-feira",
-      "summary": "A CBF informou que Ancelotti anuncia os 26 convocados para a Copa do Mundo FIFA 2026 nesta segunda, 18 de maio, às 17h, no Museu do Amanhã, no Rio de Janeiro.",
-      "category": "Futebol",
-      "source": "CBF",
-      "url": "https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/a/selecao-sera-convocada-por-ancelotti-para-copa-do-mundo-nesta-segunda-feira",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=720&q=80",
-      "tag": "Seleção"
-    },
     {
       "title": "Três Corações recebe o programa Onde Nascem os Craques",
       "summary": "Destaque publicado no portal da Prefeitura de Três Corações. O Jr News acompanha o tema por interesse local e esportivo.",
@@ -20,17 +10,29 @@
       "url": "https://www.trescoracoes.mg.gov.br/",
       "publishedAt": "2026-05-18",
       "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=720&q=80",
-      "tag": "Cidade"
+      "tag": "Cidade",
+      "trendScore": 96
     },
     {
-      "title": "Programa Oportunidade Jovem 2026 começa em Três Corações",
-      "summary": "Segundo a Prefeitura, 20 adolescentes de 15 a 17 anos foram selecionados para formação profissional e estágio supervisionado em empresas parceiras.",
-      "category": "Três Corações",
+      "title": "Três Corações + Emprego atualiza oportunidades locais",
+      "summary": "A plataforma municipal lista vagas como Professor, Vendedor, Analista de Marketing.",
+      "category": "Sul de Minas",
       "source": "Prefeitura de Três Corações",
-      "url": "https://www.trescoracoes.mg.gov.br/",
-      "publishedAt": "2026-05-15",
-      "image": "https://images.unsplash.com/photo-1521791055366-0d553872125f?auto=format&fit=crop&w=720&q=80",
-      "tag": "Juventude"
+      "url": "https://trescoracoes.mg.gov.br/empregatrescoracoes",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=720&q=80",
+      "tag": "Emprego"
+    },
+    {
+      "title": "Seleção Brasileira será convocada por Carlo Ancelotti nesta segunda-feira",
+      "summary": "A CBF informou que Ancelotti anuncia os 26 convocados para a Copa do Mundo FIFA 2026 nesta segunda, 18 de maio, às 17h, no Museu do Amanhã, no Rio de Janeiro.",
+      "category": "Futebol",
+      "source": "CBF",
+      "url": "https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/a/selecao-sera-convocada-por-ancelotti-para-copa-do-mundo-nesta-segunda-feira",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=720&q=80",
+      "tag": "Seleção",
+      "trendScore": 100
     },
     {
       "title": "Três Corações + Emprego reúne vagas e currículos em plataforma municipal",
@@ -38,29 +40,32 @@
       "category": "Sul de Minas",
       "source": "Prefeitura de Três Corações",
       "url": "https://trescoracoes.mg.gov.br/empregatrescoracoes",
-      "publishedAt": "2026-05-15",
+      "publishedAt": "2026-05-18",
       "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=720&q=80",
-      "tag": "Emprego"
+      "tag": "Emprego",
+      "trendScore": 94
     },
     {
-      "title": "G1 Sul de Minas fica como fonte monitorada para notícias regionais",
-      "summary": "O Jr News acompanha a editoria Sul de Minas do G1 como referência regional, sempre com resumo próprio e link para a matéria original.",
+      "title": "Bolsa Família começa pagamento de maio nesta segunda-feira",
+      "summary": "O calendário de maio começa nesta segunda e segue até o dia 29. É um tema de alto interesse nacional e de utilidade pública para leitores da região.",
       "category": "Sul de Minas",
-      "source": "G1 Sul de Minas",
-      "url": "https://g1.globo.com/mg/sul-de-minas/",
+      "source": "R7",
+      "url": "https://noticias.r7.com/prisma/conta-em-dia/bolsa-familia-comeca-a-pagar-mais-de-19-milhoes-de-beneficiarios-nesta-segunda-veja-calendario-18052026/",
       "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=720&q=80",
-      "tag": "Radar"
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=720&q=80",
+      "tag": "Serviço",
+      "trendScore": 92
     },
     {
-      "title": "Ei Nerd entra no radar de vídeos do Jr News",
-      "summary": "O canal Ei Nerd, de Peter Jordan, é uma das fontes de cultura pop monitoradas para vídeos sobre filmes, séries, animes, games e universo nerd.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/channel/UCt_4wzTQqmcUvemNkeO0plA",
+      "title": "Lançamentos de games da semana movimentam PC, Switch, PlayStation e Xbox",
+      "summary": "A semana de 18 a 24 de maio tem novos jogos e atualizações no radar dos consoles e PC, com atenção para lançamentos multiplataforma.",
+      "category": "Games",
+      "source": "Meristation",
+      "url": "https://as.com/meristation/noticias/los-lanzamientos-de-videojuegos-mas-destacados-de-la-semana-desde-el-18-al-24-de-mayo-de-2026-para-pc-steam-switch-playstation-y-xbox-f202605-n/",
       "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?auto=format&fit=crop&w=720&q=80",
-      "tag": "YouTube"
+      "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=720&q=80",
+      "tag": "Lançamentos",
+      "trendScore": 91
     },
     {
       "title": "YouTube Em Alta entra como atalho para vídeos mais vistos",
@@ -70,27 +75,63 @@
       "url": "https://www.youtube.com/feed/trending",
       "publishedAt": "2026-05-18",
       "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=720&q=80",
-      "tag": "Em alta"
+      "tag": "Em alta",
+      "trendScore": 90
     },
     {
-      "title": "PlayStation Plus de maio tem jogos confirmados no blog oficial",
-      "summary": "O PlayStation Blog publicou a seleção mensal de maio, incluindo EA Sports FC 26, Wuchang: Fallen Feathers e Nine Sols.",
-      "category": "Games",
-      "source": "PlayStation Blog",
-      "url": "https://blog.playstation.com/",
-      "publishedAt": "2026-05-05",
-      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=720&q=80",
-      "tag": "PlayStation"
+      "title": "Ei Nerd entra no radar de vídeos do Jr News",
+      "summary": "O canal Ei Nerd, de Peter Jordan, é uma das fontes de cultura pop monitoradas para vídeos sobre filmes, séries, animes, games e universo nerd.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/channel/UCt_4wzTQqmcUvemNkeO0plA",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?auto=format&fit=crop&w=720&q=80",
+      "tag": "YouTube",
+      "trendScore": 88
     },
     {
-      "title": "Xbox Wire segue como fonte para Game Pass, lançamentos e bastidores da Microsoft",
-      "summary": "A editoria de games do Jr News passa a acompanhar o Xbox Wire para novidades de Game Pass, estúdios, PC e console.",
+      "title": "Programa Oportunidade Jovem 2026 começa em Três Corações",
+      "summary": "Segundo a Prefeitura, 20 adolescentes de 15 a 17 anos foram selecionados para formação profissional e estágio supervisionado em empresas parceiras.",
+      "category": "Três Corações",
+      "source": "Prefeitura de Três Corações",
+      "url": "https://www.trescoracoes.mg.gov.br/",
+      "publishedAt": "2026-05-15",
+      "image": "https://images.unsplash.com/photo-1521791055366-0d553872125f?auto=format&fit=crop&w=720&q=80",
+      "tag": "Juventude",
+      "trendScore": 86
+    },
+    {
+      "title": "G1 Sul de Minas fica como fonte monitorada para notícias regionais",
+      "summary": "O Jr News acompanha a editoria Sul de Minas do G1 como referência regional, sempre com resumo próprio e link para a matéria original.",
+      "category": "Sul de Minas",
+      "source": "G1 Sul de Minas",
+      "url": "https://g1.globo.com/mg/sul-de-minas/",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=720&q=80",
+      "tag": "Radar",
+      "trendScore": 84
+    },
+    {
+      "title": "Xbox Wire destaca jogos e atualizações para a semana",
+      "summary": "A editoria de games do Jr News acompanha Xbox Wire e Game Pass para novidades de Microsoft, PC, console e lançamentos semanais.",
       "category": "Games",
       "source": "Xbox Wire",
       "url": "https://news.xbox.com/en-us/",
       "publishedAt": "2026-05-18",
       "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=720&q=80",
-      "tag": "Xbox"
+      "tag": "Xbox",
+      "trendScore": 82
+    },
+    {
+      "title": "PlayStation Blog segue no radar para Plus, lançamentos e novidades",
+      "summary": "O PlayStation Blog é uma fonte oficial monitorada para novidades de catálogo, jogos, updates e campanhas do ecossistema PlayStation.",
+      "category": "Games",
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=720&q=80",
+      "tag": "PlayStation",
+      "trendScore": 80
     },
     {
       "title": "Nintendo segue no radar com Switch 2, lançamentos e comunicados oficiais",
@@ -100,17 +141,63 @@
       "url": "https://www.nintendo.com/us/whatsnew/",
       "publishedAt": "2026-05-18",
       "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=720&q=80",
-      "tag": "Nintendo"
+      "tag": "Nintendo",
+      "trendScore": 78
     },
     {
-      "title": "Instagram, TikTok e Shorts terão bloco próprio para tendências rápidas",
-      "summary": "A home passa a ter espaço editorial para formatos curtos, trends, creators, bastidores e conteúdo jovem. A integração automática depende das APIs oficiais das plataformas.",
+      "title": "Instagram da Prefeitura de Três Corações fica no radar local",
+      "summary": "O Jr News passa a acompanhar atualizações públicas da Prefeitura também pelo Instagram, com foco em comunicados rápidos, eventos e prestação de serviço.",
       "category": "Social",
-      "source": "Jr News",
+      "source": "Instagram / Prefeitura de Três Corações",
       "url": "https://www.instagram.com/prefeituratrescoracoes",
       "publishedAt": "2026-05-18",
       "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?auto=format&fit=crop&w=720&q=80",
-      "tag": "Social"
+      "tag": "Instagram",
+      "trendScore": 76
+    },
+    {
+      "title": "TikTok, Reels e Shorts terão bloco para trends rápidas",
+      "summary": "A home mantém espaço editorial para formatos curtos, creators, bastidores, vídeos virais e conteúdos que conversam com o público mais jovem.",
+      "category": "Social",
+      "source": "Jr News",
+      "url": "https://www.tiktok.com/",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?auto=format&fit=crop&w=720&q=80",
+      "tag": "TikTok",
+      "trendScore": 74
+    },
+    {
+      "title": "Virais do Brasil entram na curadoria de vídeos rápidos",
+      "summary": "O Jr News acompanha páginas de vídeos em alta para identificar temas com potencial de engajamento em YouTube Shorts, Reels e TikTok.",
+      "category": "Vídeos",
+      "source": "ViralScope",
+      "url": "https://viralscope.cloud/",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=720&q=80",
+      "tag": "Viral",
+      "trendScore": 72
+    },
+    {
+      "title": "Música e cultura pop ganham espaço para clipes, artistas e eventos",
+      "summary": "Além de games e vídeos, o Jr News terá uma camada de entretenimento para música, festas, clipes, lançamentos e artistas regionais.",
+      "category": "Música",
+      "source": "Jr News",
+      "url": "https://www.youtube.com/feed/trending",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=720&q=80",
+      "tag": "Música",
+      "trendScore": 70
+    },
+    {
+      "title": "Comércio local pode usar o Jr News para divulgar promoções e eventos",
+      "summary": "A área comercial do portal está preparada para posts patrocinados, banners, publivídeos e chamadas regionais com identificação clara de publicidade.",
+      "category": "Sul de Minas",
+      "source": "Jr News",
+      "url": "https://owagnerjrr.github.io/jrnews/divulgue.html",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=720&q=80",
+      "tag": "Divulgue",
+      "trendScore": 68
     }
   ]
 }

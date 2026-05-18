@@ -63,7 +63,9 @@ async function renderLiveContent() {
     const response = await fetch("./data/content.json", { cache: "no-store" });
     if (!response.ok) return;
     const data = await response.json();
-    const items = Array.isArray(data.items) ? data.items : [];
+    const items = Array.isArray(data.items)
+      ? [...data.items].sort((a, b) => (b.trendScore || 0) - (a.trendScore || 0))
+      : [];
 
     containers.forEach((container) => {
       const filter = container.dataset.contentList;
