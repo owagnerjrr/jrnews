@@ -37,17 +37,6 @@
     </header>
 
     <main id="inicio">
-      <section class="ticker" aria-label="Destaques rápidos">
-        <div class="shell ticker__inner">
-          <strong>Agora</strong>
-          <div class="ticker__track">
-            <span>Portal em construção: primeiras editorias do Jr News já estão no ar.</span>
-            <span>Foco regional: Três Corações e Sul de Minas ganham espaço fixo.</span>
-            <span>Vídeos, futebol, música, games e publiposts farão parte do projeto.</span>
-          </div>
-        </div>
-      </section>
-
       <section class="hero shell" aria-label="Principais destaques">
         <article class="lead-card">
           <img
@@ -98,7 +87,10 @@
           <div class="section-heading">
             <span>Últimas</span>
             <h2>Notícias e destaques</h2>
+            <small class="feed-timestamp" data-updated-at>Atualizando conteúdo diário</small>
           </div>
+
+          <div data-content-list="Todos" data-content-limit="8"></div>
 
           <a class="news-row" href="./sul-de-minas.html">
             <img
@@ -300,7 +292,7 @@
           <span>Entretenimento</span>
           <h2>Música, games e cultura pop</h2>
         </div>
-        <div class="cards-three">
+        <div class="cards-three" data-content-list="Games" data-content-layout="card" data-content-limit="3">
           <article class="story-card story-card--text">
             <span class="tag tag--blue">Música</span>
             <h3>Lançamentos, artistas independentes e agenda de shows</h3>
@@ -316,6 +308,22 @@
             <h3>Canais, cortes, vídeos virais e listas da semana</h3>
             <p>Um bloco perfeito para automação e curadoria diária.</p>
           </article>
+        </div>
+      </section>
+
+      <section class="regional-band">
+        <div class="shell">
+          <div class="section-heading">
+            <span>Instants</span>
+            <h2>Instagram, TikTok e trends</h2>
+          </div>
+          <div class="cards-three" data-content-list="Social" data-content-layout="card" data-content-limit="3">
+            <article class="story-card story-card--text">
+              <span class="tag tag--pink">Social</span>
+              <h3>Bloco para conteúdos rápidos e trends</h3>
+              <p>Espaço para posts curtos, reels, TikToks, creators e bastidores da região.</p>
+            </article>
+          </div>
         </div>
       </section>
 

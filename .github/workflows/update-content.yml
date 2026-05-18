@@ -1,0 +1,30 @@
+name: Atualizar conteúdo diário
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Atualizar conteúdo
+        run: node scripts/update-content.mjs
+
+      - name: Commit se houver mudança
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Atualizar conteúdo diário do Jr News"
+          file_pattern: data/content.json

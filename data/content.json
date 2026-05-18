@@ -1,0 +1,116 @@
+{
+  "updatedAt": "2026-05-18T13:45:00-03:00",
+  "editorNote": "Conteúdo inicial curado pelo Jr News. A automação diária atualiza este arquivo às 7h de Brasília quando as fontes estiverem disponíveis.",
+  "items": [
+    {
+      "title": "Seleção Brasileira será convocada por Carlo Ancelotti nesta segunda-feira",
+      "summary": "A CBF informou que Ancelotti anuncia os 26 convocados para a Copa do Mundo FIFA 2026 nesta segunda, 18 de maio, às 17h, no Museu do Amanhã, no Rio de Janeiro.",
+      "category": "Futebol",
+      "source": "CBF",
+      "url": "https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/a/selecao-sera-convocada-por-ancelotti-para-copa-do-mundo-nesta-segunda-feira",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=720&q=80",
+      "tag": "Seleção"
+    },
+    {
+      "title": "Três Corações recebe o programa Onde Nascem os Craques",
+      "summary": "Destaque publicado no portal da Prefeitura de Três Corações. O Jr News acompanha o tema por interesse local e esportivo.",
+      "category": "Três Corações",
+      "source": "Prefeitura de Três Corações",
+      "url": "https://www.trescoracoes.mg.gov.br/",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=720&q=80",
+      "tag": "Cidade"
+    },
+    {
+      "title": "Programa Oportunidade Jovem 2026 começa em Três Corações",
+      "summary": "Segundo a Prefeitura, 20 adolescentes de 15 a 17 anos foram selecionados para formação profissional e estágio supervisionado em empresas parceiras.",
+      "category": "Três Corações",
+      "source": "Prefeitura de Três Corações",
+      "url": "https://www.trescoracoes.mg.gov.br/",
+      "publishedAt": "2026-05-15",
+      "image": "https://images.unsplash.com/photo-1521791055366-0d553872125f?auto=format&fit=crop&w=720&q=80",
+      "tag": "Juventude"
+    },
+    {
+      "title": "Três Corações + Emprego reúne vagas e currículos em plataforma municipal",
+      "summary": "A plataforma conecta candidatos e empresas. Entre as vagas listadas estão vendedor, auxiliar de logística, eletricista de autos e analista de marketing.",
+      "category": "Sul de Minas",
+      "source": "Prefeitura de Três Corações",
+      "url": "https://trescoracoes.mg.gov.br/empregatrescoracoes",
+      "publishedAt": "2026-05-15",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=720&q=80",
+      "tag": "Emprego"
+    },
+    {
+      "title": "G1 Sul de Minas fica como fonte monitorada para notícias regionais",
+      "summary": "O Jr News acompanha a editoria Sul de Minas do G1 como referência regional, sempre com resumo próprio e link para a matéria original.",
+      "category": "Sul de Minas",
+      "source": "G1 Sul de Minas",
+      "url": "https://g1.globo.com/mg/sul-de-minas/",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=720&q=80",
+      "tag": "Radar"
+    },
+    {
+      "title": "Ei Nerd entra no radar de vídeos do Jr News",
+      "summary": "O canal Ei Nerd, de Peter Jordan, é uma das fontes de cultura pop monitoradas para vídeos sobre filmes, séries, animes, games e universo nerd.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/channel/UCt_4wzTQqmcUvemNkeO0plA",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?auto=format&fit=crop&w=720&q=80",
+      "tag": "YouTube"
+    },
+    {
+      "title": "YouTube Em Alta entra como atalho para vídeos mais vistos",
+      "summary": "Enquanto a integração com a YouTube Data API não estiver configurada, o Jr News mantém um atalho editorial para a página de tendências e vídeos em alta.",
+      "category": "Vídeos",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/feed/trending",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=720&q=80",
+      "tag": "Em alta"
+    },
+    {
+      "title": "PlayStation Plus de maio tem jogos confirmados no blog oficial",
+      "summary": "O PlayStation Blog publicou a seleção mensal de maio, incluindo EA Sports FC 26, Wuchang: Fallen Feathers e Nine Sols.",
+      "category": "Games",
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/",
+      "publishedAt": "2026-05-05",
+      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=720&q=80",
+      "tag": "PlayStation"
+    },
+    {
+      "title": "Xbox Wire segue como fonte para Game Pass, lançamentos e bastidores da Microsoft",
+      "summary": "A editoria de games do Jr News passa a acompanhar o Xbox Wire para novidades de Game Pass, estúdios, PC e console.",
+      "category": "Games",
+      "source": "Xbox Wire",
+      "url": "https://news.xbox.com/en-us/",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=720&q=80",
+      "tag": "Xbox"
+    },
+    {
+      "title": "Nintendo segue no radar com Switch 2, lançamentos e comunicados oficiais",
+      "summary": "A cobertura de games também acompanhará comunicados oficiais da Nintendo e principais movimentos da empresa no mercado.",
+      "category": "Games",
+      "source": "Nintendo",
+      "url": "https://www.nintendo.com/us/whatsnew/",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=720&q=80",
+      "tag": "Nintendo"
+    },
+    {
+      "title": "Instagram, TikTok e Shorts terão bloco próprio para tendências rápidas",
+      "summary": "A home passa a ter espaço editorial para formatos curtos, trends, creators, bastidores e conteúdo jovem. A integração automática depende das APIs oficiais das plataformas.",
+      "category": "Social",
+      "source": "Jr News",
+      "url": "https://www.instagram.com/prefeituratrescoracoes",
+      "publishedAt": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?auto=format&fit=crop&w=720&q=80",
+      "tag": "Social"
+    }
+  ]
+}

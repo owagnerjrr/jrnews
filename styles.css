@@ -372,6 +372,14 @@ h1 {
   letter-spacing: 0;
 }
 
+.section-heading small,
+.feed-timestamp {
+  display: inline-block;
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
 .section-heading--compact h2 {
   font-size: 1.45rem;
 }
