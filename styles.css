@@ -138,6 +138,7 @@ img {
 .nav a {
   display: inline-flex;
   align-items: center;
+  gap: 7px;
   padding: 0 12px;
   color: #dce9ed;
 }
@@ -162,6 +163,26 @@ img {
   height: 2px;
   margin: 4px auto;
   background: var(--text);
+}
+
+.jr-icon {
+  display: inline-grid;
+  place-items: center;
+  flex: 0 0 auto;
+}
+
+.jr-icon svg {
+  width: 1.05em;
+  height: 1.05em;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.9;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.nav .jr-icon {
+  color: var(--cyan);
 }
 
 .ticker {
@@ -834,8 +855,7 @@ h1 {
 }
 
 .eyebrow::before,
-.section-heading span::before,
-.tag::before {
+.section-heading span::before {
   content: "";
   display: inline-block;
   width: 7px;
@@ -899,6 +919,7 @@ h1 {
 .tag {
   display: inline-flex;
   align-items: center;
+  gap: 6px;
   min-height: 24px;
   padding: 0 9px;
   border: 1px solid rgba(33, 199, 255, 0.2);
@@ -906,8 +927,9 @@ h1 {
   background: rgba(33, 199, 255, 0.08);
 }
 
-.tag::before {
-  margin-right: 6px;
+.tag .jr-icon svg {
+  width: 13px;
+  height: 13px;
 }
 
 .story-card:hover,
