@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Divulgue aqui - Jr News</title>
+    <meta
+      name="description"
+      content="Planos comerciais do Jr News para posts patrocinados, banners, vídeos e divulgação local."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="shell topbar__inner">
+        <a class="brand" href="./index.html" aria-label="Jr News início">
+          <span class="brand__mark">JR</span>
+          <span>
+            <strong>Jr News</strong>
+            <small>Informação, entretenimento e região em um só lugar</small>
+          </span>
+        </a>
+        <nav class="nav" aria-label="Menu principal">
+          <a href="./sul-de-minas.html">Sul de Minas</a>
+          <a href="./tres-coracoes.html">Três Corações</a>
+          <a href="./futebol.html">Futebol</a>
+          <a href="./videos.html">Vídeos</a>
+          <a href="./divulgue.html">Divulgue aqui</a>
+        </nav>
+        <button class="menu-button" type="button" aria-label="Abrir menu" data-menu-button>
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-hero shell">
+        <span class="eyebrow">Comercial</span>
+        <h1>Divulgue sua marca, evento ou conteúdo no Jr News</h1>
+        <p>
+          Espaço para comércio local, artistas, criadores, eventos, serviços e marcas
+          que querem aparecer em um portal regional com foco em informação e entretenimento.
+        </p>
+      </section>
+
+      <section class="shell pricing-grid">
+        <article class="price-card">
+          <span class="tag">Entrada</span>
+          <h2>Post simples</h2>
+          <strong>R$ 39</strong>
+          <p>Publicação patrocinada em categoria escolhida, com título, imagem, texto e link.</p>
+          <a class="button button--primary" href="#solicitar">Solicitar</a>
+        </article>
+        <article class="price-card price-card--featured">
+          <span class="tag tag--green">Mais indicado</span>
+          <h2>Destaque local</h2>
+          <strong>R$ 89</strong>
+          <p>Post patrocinado com chamada na home e destaque por até 7 dias.</p>
+          <a class="button button--primary" href="#solicitar">Solicitar</a>
+        </article>
+        <article class="price-card">
+          <span class="tag tag--blue">Vídeo</span>
+          <h2>Publivídeo</h2>
+          <strong>R$ 149</strong>
+          <p>Divulgação com vídeo incorporado, chamada editorial e espaço em Vídeos.</p>
+          <a class="button button--primary" href="#solicitar">Solicitar</a>
+        </article>
+      </section>
+
+      <section class="shell commercial-layout">
+        <div class="info-panel">
+          <div class="section-heading">
+            <span>Como funciona</span>
+            <h2>Publicação com aprovação editorial</h2>
+          </div>
+          <div class="steps-list">
+            <article><strong>1</strong><span>Você envia o material ou pede ajuda para montar a publicação.</span></article>
+            <article><strong>2</strong><span>O conteúdo passa por revisão para evitar golpes, spam e informação sensível.</span></article>
+            <article><strong>3</strong><span>Após aprovação e pagamento, o post entra no site com identificação comercial.</span></article>
+          </div>
+        </div>
+
+        <form class="contact-card" id="solicitar">
+          <span class="tag">Pré-cadastro</span>
+          <h2>Quero divulgar</h2>
+          <label>
+            Nome ou empresa
+            <input type="text" placeholder="Ex.: Loja, artista ou evento" />
+          </label>
+          <label>
+            Tipo de divulgação
+            <select>
+              <option>Post simples</option>
+              <option>Destaque local</option>
+              <option>Publivídeo</option>
+              <option>Pacote mensal</option>
+            </select>
+          </label>
+          <label>
+            Mensagem
+            <textarea placeholder="Conte rapidamente o que você quer divulgar"></textarea>
+          </label>
+          <button class="button button--primary" type="button">Enviar solicitação</button>
+          <small>Formulário demonstrativo. Na próxima fase conectamos WhatsApp, e-mail ou Firebase.</small>
+        </form>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="shell footer__inner">
+        <div><strong>Jr News</strong><p>Informação, entretenimento e região em um só lugar.</p></div>
+        <p>Fundado por Wagner Pereira Rosário Junior.</p>
+      </div>
+    </footer>
+    <script src="./script.js"></script>
+  </body>
+</html>
