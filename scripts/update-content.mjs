@@ -56,7 +56,7 @@ async function buildItems() {
       source: "Prefeitura de Três Corações",
       url: sources.prefeitura,
       publishedAt: today,
-      image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=720&q=80",
+      image: "./assets/thumb-city.svg",
       tag: "Cidade"
     });
 
@@ -68,7 +68,7 @@ async function buildItems() {
         source: "Prefeitura de Três Corações",
         url: sources.prefeitura,
         publishedAt: today,
-        image: "https://images.unsplash.com/photo-1521791055366-0d553872125f?auto=format&fit=crop&w=720&q=80",
+        image: "./assets/thumb-city.svg",
         tag: "Juventude"
       });
     }
@@ -89,7 +89,7 @@ async function buildItems() {
       source: "Prefeitura de Três Corações",
       url: sources.empregos,
       publishedAt: today,
-      image: "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=720&q=80",
+      image: "./assets/thumb-city.svg",
       tag: "Emprego"
     });
   } catch (error) {
@@ -107,7 +107,7 @@ async function buildItems() {
       source: "YouTube / Ei Nerd",
       url,
       publishedAt: today,
-      image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?auto=format&fit=crop&w=720&q=80",
+      image: "./assets/thumb-video.svg",
       tag: "YouTube"
     });
   } catch (error) {
@@ -125,7 +125,7 @@ async function buildItems() {
       source: "PlayStation Blog",
       url,
       publishedAt: today,
-      image: "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=720&q=80",
+      image: "./assets/thumb-games.svg",
       tag: "PlayStation"
     });
   } catch (error) {
@@ -143,7 +143,7 @@ async function buildItems() {
       source: "Xbox Wire",
       url,
       publishedAt: today,
-      image: "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=720&q=80",
+      image: "./assets/thumb-games.svg",
       tag: "Xbox"
     });
   } catch (error) {

@@ -43,6 +43,16 @@ const categoryIcons = {
   "Três Corações": "pin"
 };
 
+const categoryImages = {
+  Futebol: "./assets/thumb-football.svg",
+  Games: "./assets/thumb-games.svg",
+  Vídeos: "./assets/thumb-video.svg",
+  Social: "./assets/thumb-social.svg",
+  Música: "./assets/thumb-social.svg",
+  "Sul de Minas": "./assets/thumb-city.svg",
+  "Três Corações": "./assets/thumb-city.svg"
+};
+
 function icon(name) {
   return `<span class="jr-icon">${icons[name] || icons.news}</span>`;
 }
@@ -85,9 +95,10 @@ function formatDate(value) {
 function createNewsRow(item) {
   const tagClass = categoryColors[item.category] || "";
   const tagIcon = categoryIcons[item.category] || iconForText(item.tag || item.category || "");
+  const image = categoryImages[item.category] || item.image || "./assets/thumb-news.svg";
   return `
     <a class="news-row" href="${item.url}" target="_blank" rel="noreferrer">
-      <img src="${item.image}" alt="" loading="lazy" />
+      <img src="${image}" alt="" loading="lazy" onerror="this.src='./assets/thumb-news.svg'" />
       <div>
         <span class="tag ${tagClass}">${icon(tagIcon)}${item.tag || item.category}</span>
         <h3>${item.title}</h3>
@@ -101,9 +112,10 @@ function createNewsRow(item) {
 function createStoryCard(item) {
   const tagClass = categoryColors[item.category] || "";
   const tagIcon = categoryIcons[item.category] || iconForText(item.tag || item.category || "");
+  const image = categoryImages[item.category] || item.image || "./assets/thumb-news.svg";
   return `
     <a class="story-card" href="${item.url}" target="_blank" rel="noreferrer">
-      <img src="${item.image}" alt="" loading="lazy" />
+      <img src="${image}" alt="" loading="lazy" onerror="this.src='./assets/thumb-news.svg'" />
       <div>
         <span class="tag ${tagClass}">${icon(tagIcon)}${item.tag || item.category}</span>
         <h3>${item.title}</h3>

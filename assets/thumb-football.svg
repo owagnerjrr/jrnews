@@ -1,0 +1,16 @@
+<svg width="720" height="450" viewBox="0 0 720 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="450" fill="#020711"/>
+  <rect width="720" height="450" fill="url(#g)"/>
+  <path d="M0 310C140 250 260 340 390 280C520 220 610 250 720 190V450H0V310Z" fill="#061A2B"/>
+  <circle cx="360" cy="204" r="82" fill="#06111F" stroke="#21C7FF" stroke-width="6"/>
+  <path d="m330 181 30-22 30 22-12 36h-36l-12-36Z" stroke="#F3F8FF" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M271 203h-86M535 203h-86M360 286v74M360 48v74" stroke="#0A6BFF" stroke-width="5" stroke-linecap="round"/>
+  <text x="44" y="72" fill="#21C7FF" font-family="Arial, sans-serif" font-size="22" font-weight="800">JR NEWS</text>
+  <text x="44" y="112" fill="#F3F8FF" font-family="Arial, sans-serif" font-size="48" font-weight="900">FUTEBOL</text>
+  <defs>
+    <radialGradient id="g" cx="50%" cy="42%" r="65%">
+      <stop stop-color="#0A6BFF" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#020711" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

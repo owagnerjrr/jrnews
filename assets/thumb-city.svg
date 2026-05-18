@@ -1,0 +1,15 @@
+<svg width="720" height="450" viewBox="0 0 720 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="450" fill="#020711"/>
+  <rect width="720" height="450" fill="url(#g)"/>
+  <path d="M92 302h536v78H92z" fill="#071A2C"/>
+  <path d="M140 187h92v193h-92V187Zm134-58h106v251H274V129Zm150 101h98v150h-98V230Zm134-74h74v224h-74V156Z" fill="#0B2036" stroke="#21C7FF" stroke-width="3"/>
+  <path d="M166 222h42M166 258h42M166 294h42M304 166h46M304 204h46M304 242h46M452 266h42M452 304h42M580 192h28M580 230h28M580 268h28" stroke="#88BFFF" stroke-width="5" stroke-linecap="round"/>
+  <text x="44" y="72" fill="#21C7FF" font-family="Arial, sans-serif" font-size="22" font-weight="800">JR NEWS</text>
+  <text x="44" y="112" fill="#F3F8FF" font-family="Arial, sans-serif" font-size="48" font-weight="900">TRÊS CORAÇÕES</text>
+  <defs>
+    <radialGradient id="g" cx="55%" cy="35%" r="68%">
+      <stop stop-color="#21C7FF" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#020711" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

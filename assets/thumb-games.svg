@@ -1,0 +1,14 @@
+<svg width="720" height="450" viewBox="0 0 720 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="450" fill="#020711"/>
+  <rect width="720" height="450" fill="url(#g)"/>
+  <path d="M185 242c10-52 44-82 92-82h166c48 0 82 30 92 82l17 86c8 42-42 68-72 36l-48-52H288l-48 52c-30 32-80 6-72-36l17-86Z" fill="#071A2C" stroke="#21C7FF" stroke-width="7"/>
+  <path d="M273 229v74M236 266h74M449 248h.1M495 286h.1" stroke="#F3F8FF" stroke-width="15" stroke-linecap="round"/>
+  <text x="44" y="72" fill="#21C7FF" font-family="Arial, sans-serif" font-size="22" font-weight="800">JR NEWS</text>
+  <text x="44" y="112" fill="#F3F8FF" font-family="Arial, sans-serif" font-size="48" font-weight="900">GAMES</text>
+  <defs>
+    <radialGradient id="g" cx="50%" cy="48%" r="68%">
+      <stop stop-color="#0A6BFF" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#020711" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

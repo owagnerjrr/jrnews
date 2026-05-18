@@ -1,0 +1,15 @@
+<svg width="720" height="450" viewBox="0 0 720 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="450" fill="#020711"/>
+  <rect width="720" height="450" fill="url(#g)"/>
+  <rect x="132" y="150" width="456" height="232" rx="28" fill="#071A2C" stroke="#21C7FF" stroke-width="7"/>
+  <path d="m322 210 96 56-96 56V210Z" fill="#F3F8FF"/>
+  <path d="M172 112h376M96 94h80M548 94h76M105 402h510" stroke="#0A6BFF" stroke-width="5" stroke-linecap="round"/>
+  <text x="44" y="72" fill="#21C7FF" font-family="Arial, sans-serif" font-size="22" font-weight="800">JR NEWS</text>
+  <text x="44" y="132" fill="#F3F8FF" font-family="Arial, sans-serif" font-size="48" font-weight="900">VÍDEOS</text>
+  <defs>
+    <radialGradient id="g" cx="50%" cy="45%" r="66%">
+      <stop stop-color="#21C7FF" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#020711" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
