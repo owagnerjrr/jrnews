@@ -1,0 +1,63 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jr News</title>
+  <desc id="desc">Logo futurista azul e prata do Jr News.</desc>
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="44%" r="58%">
+      <stop offset="0%" stop-color="#0C8DFF" stop-opacity="0.48"/>
+      <stop offset="48%" stop-color="#062E79" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#020711" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="blueMetal" x1="130" y1="248" x2="318" y2="88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00C8FF"/>
+      <stop offset="0.42" stop-color="#0867FF"/>
+      <stop offset="1" stop-color="#5FE8FF"/>
+    </linearGradient>
+    <linearGradient id="silverMetal" x1="335" y1="103" x2="556" y2="237" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.42" stop-color="#C7D3DF"/>
+      <stop offset="0.7" stop-color="#6F839A"/>
+      <stop offset="1" stop-color="#F7FBFF"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="135" y1="93" x2="548" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BFF5FF"/>
+      <stop offset="0.38" stop-color="#0B8CFF"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.02 0 0 0 0 0.46 0 0 0 0 1 0 0 0 0.8 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+  </defs>
+
+  <rect width="640" height="360" rx="0" fill="#020711"/>
+  <rect width="640" height="360" fill="url(#glow)"/>
+
+  <g opacity="0.72" filter="url(#softGlow)">
+    <path d="M119 183C123 109 187 54 276 53C365 52 457 103 488 177" stroke="#008DFF" stroke-width="4" stroke-linecap="round"/>
+    <path d="M101 199C105 91 194 29 304 42C398 53 476 107 511 189" stroke="#00C8FF" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+    <path d="M134 80L157 71M103 229H152M486 233H537M518 203H566M89 183H149" stroke="#0F9EFF" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g opacity="0.52">
+    <path d="M177 108C226 88 291 86 347 105C375 115 401 130 421 148" stroke="#0F9EFF" stroke-width="1.5"/>
+    <path d="M164 142C215 122 292 120 357 145" stroke="#0F9EFF" stroke-width="1.2"/>
+    <path d="M404 128C445 144 474 168 489 199" stroke="#0F9EFF" stroke-width="1.2"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <path d="M96 253H197C226 253 242 239 252 210L287 105H236L205 199C201 210 194 216 181 216H122L96 253Z" fill="url(#blueMetal)" stroke="url(#edge)" stroke-width="3"/>
+    <path d="M248 253L299 105H354C387 105 407 122 401 151C398 168 386 181 368 188L419 253H365L321 194H299L279 253H248Z" fill="url(#silverMetal)" stroke="url(#edge)" stroke-width="3"/>
+    <path d="M315 152H350C364 152 373 146 374 136C375 126 368 121 354 121H325L315 152Z" fill="#06111E" opacity="0.9"/>
+  </g>
+
+  <g fill="#EAF6FF" stroke="#6FAEFF" stroke-width="0.6" opacity="0.96">
+    <path d="M184 310L197 273H214L233 296L241 273H257L244 310H228L209 286L201 310H184Z"/>
+    <path d="M277 310L290 273H334L330 285H303L301 288H326L323 299H297L295 302H323L320 310H277Z"/>
+    <path d="M360 310L359 273H374L374 293L388 273H401L400 293L414 273H430L402 310H387L388 291L374 310H360Z"/>
+    <path d="M448 310L452 299H483C488 299 491 298 492 295C493 292 491 291 486 291H471C458 291 452 286 456 276C459 268 468 263 482 263H516L512 274H481C476 274 474 275 473 278C472 280 474 281 479 281H494C507 281 513 286 510 296C506 305 497 310 482 310H448Z"/>
+  </g>
+
+  <path d="M111 326H529" stroke="#047DFF" stroke-width="2" opacity="0.6"/>
+  <path d="M225 328H415" stroke="#66F1FF" stroke-width="3" opacity="0.9"/>
+</svg>
