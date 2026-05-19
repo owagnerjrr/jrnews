@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-05-18T19:31:19.934Z",
+  "updatedAt": "2026-05-19T12:34:04.449Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
+    {
+      "title": "O ÚLTIMO EPISÓDIO DE THE BOYS VAI SER UMA BOMBA?",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=6ml9iQMHA88",
+      "publishedAt": "2026-05-19",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
+    },
+    {
+      "title": "Novidades do PlayStation Blog",
+      "summary": "Atualização oficial monitorada pelo Jr News para a editoria de games.",
+      "category": "Games",
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/05/18/time-travel-trials-and-treasure-awaits-in-the-adventures-of-elliot-the-millennium-tales/",
+      "publishedAt": "2026-05-19",
+      "image": "./assets/thumb-games.svg",
+      "tag": "PlayStation"
+    },
+    {
+      "title": "Novidades do Xbox Wire",
+      "summary": "Atualização oficial monitorada pelo Jr News para Game Pass, Xbox, PC e estúdios Microsoft.",
+      "category": "Games",
+      "source": "Xbox Wire",
+      "url": "https://news.xbox.com/en-us/2026/05/18/introducing-xbox-player-voice/",
+      "publishedAt": "2026-05-19",
+      "image": "./assets/thumb-games.svg",
+      "tag": "Xbox"
+    },
     {
       "title": "Três Corações recebe o programa Onde Nascem os Craques",
       "summary": "Destaque publicado no portal da Prefeitura de Três Corações. O Jr News acompanha o tema por interesse local e esportivo.",
@@ -165,39 +195,6 @@
       "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?auto=format&fit=crop&w=720&q=80",
       "tag": "TikTok",
       "trendScore": 74
-    },
-    {
-      "title": "Virais do Brasil entram na curadoria de vídeos rápidos",
-      "summary": "O Jr News acompanha páginas de vídeos em alta para identificar temas com potencial de engajamento em YouTube Shorts, Reels e TikTok.",
-      "category": "Vídeos",
-      "source": "ViralScope",
-      "url": "https://viralscope.cloud/",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=720&q=80",
-      "tag": "Viral",
-      "trendScore": 72
-    },
-    {
-      "title": "Música e cultura pop ganham espaço para clipes, artistas e eventos",
-      "summary": "Além de games e vídeos, o Jr News terá uma camada de entretenimento para música, festas, clipes, lançamentos e artistas regionais.",
-      "category": "Música",
-      "source": "Jr News",
-      "url": "https://www.youtube.com/feed/trending",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=720&q=80",
-      "tag": "Música",
-      "trendScore": 70
-    },
-    {
-      "title": "Comércio local pode usar o Jr News para divulgar promoções e eventos",
-      "summary": "A área comercial do portal está preparada para posts patrocinados, banners, publivídeos e chamadas regionais com identificação clara de publicidade.",
-      "category": "Sul de Minas",
-      "source": "Jr News",
-      "url": "https://owagnerjrr.github.io/jrnews/divulgue.html",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=720&q=80",
-      "tag": "Divulgue",
-      "trendScore": 68
     }
   ]
 }
