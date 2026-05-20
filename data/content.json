@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-19T12:34:04.449Z",
+  "updatedAt": "2026-05-20T12:15:25.775Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O ÚLTIMO EPISÓDIO DE THE BOYS VAI SER UMA BOMBA?",
+      "title": "VIAGEM INTERESTELLAR É POSSÍVEL? NOVO FOGUETE VINDO AÍ?",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=6ml9iQMHA88",
-      "publishedAt": "2026-05-19",
+      "url": "https://www.youtube.com/watch?v=ozTOWvmwAX8",
+      "publishedAt": "2026-05-20",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O ÚLTIMO EPISÓDIO DE THE BOYS VAI SER UMA BOMBA?",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=6ml9iQMHA88",
+      "publishedAt": "2026-05-19",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "Três Corações recebe o programa Onde Nascem os Craques",
@@ -184,17 +194,6 @@
       "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?auto=format&fit=crop&w=720&q=80",
       "tag": "Instagram",
       "trendScore": 76
-    },
-    {
-      "title": "TikTok, Reels e Shorts terão bloco para trends rápidas",
-      "summary": "A home mantém espaço editorial para formatos curtos, creators, bastidores, vídeos virais e conteúdos que conversam com o público mais jovem.",
-      "category": "Social",
-      "source": "Jr News",
-      "url": "https://www.tiktok.com/",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?auto=format&fit=crop&w=720&q=80",
-      "tag": "TikTok",
-      "trendScore": 74
     }
   ]
 }
