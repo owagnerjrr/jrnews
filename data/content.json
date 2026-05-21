@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-20T12:15:25.775Z",
+  "updatedAt": "2026-05-21T12:38:54.010Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "VIAGEM INTERESTELLAR É POSSÍVEL? NOVO FOGUETE VINDO AÍ?",
+      "title": "TRILOGIA: O PODEROSO CHEFÃO - MEGA ANÁLISE",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=ozTOWvmwAX8",
-      "publishedAt": "2026-05-20",
+      "url": "https://www.youtube.com/watch?v=Z-S6yfVxwUk",
+      "publishedAt": "2026-05-21",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "VIAGEM INTERESTELLAR É POSSÍVEL? NOVO FOGUETE VINDO AÍ?",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=ozTOWvmwAX8",
+      "publishedAt": "2026-05-20",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O ÚLTIMO EPISÓDIO DE THE BOYS VAI SER UMA BOMBA?",
@@ -183,17 +193,6 @@
       "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=720&q=80",
       "tag": "Nintendo",
       "trendScore": 78
-    },
-    {
-      "title": "Instagram da Prefeitura de Três Corações fica no radar local",
-      "summary": "O Jr News passa a acompanhar atualizações públicas da Prefeitura também pelo Instagram, com foco em comunicados rápidos, eventos e prestação de serviço.",
-      "category": "Social",
-      "source": "Instagram / Prefeitura de Três Corações",
-      "url": "https://www.instagram.com/prefeituratrescoracoes",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?auto=format&fit=crop&w=720&q=80",
-      "tag": "Instagram",
-      "trendScore": 76
     }
   ]
 }
