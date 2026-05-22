@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-21T12:38:54.010Z",
+  "updatedAt": "2026-05-22T12:13:06.283Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "TRILOGIA: O PODEROSO CHEFÃO - MEGA ANÁLISE",
+      "title": "THE BOYS CHEGOU AO FIM! MINHA OPINIÃO SINCERA - ANÁLISE DO ÚLTIMO EPISÓDIO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Z-S6yfVxwUk",
-      "publishedAt": "2026-05-21",
+      "url": "https://www.youtube.com/watch?v=2rvCPSKFhow",
+      "publishedAt": "2026-05-22",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "TRILOGIA: O PODEROSO CHEFÃO - MEGA ANÁLISE",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=Z-S6yfVxwUk",
+      "publishedAt": "2026-05-21",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "VIAGEM INTERESTELLAR É POSSÍVEL? NOVO FOGUETE VINDO AÍ?",
@@ -182,17 +192,6 @@
       "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=720&q=80",
       "tag": "PlayStation",
       "trendScore": 80
-    },
-    {
-      "title": "Nintendo segue no radar com Switch 2, lançamentos e comunicados oficiais",
-      "summary": "A cobertura de games também acompanhará comunicados oficiais da Nintendo e principais movimentos da empresa no mercado.",
-      "category": "Games",
-      "source": "Nintendo",
-      "url": "https://www.nintendo.com/us/whatsnew/",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=720&q=80",
-      "tag": "Nintendo",
-      "trendScore": 78
     }
   ]
 }
