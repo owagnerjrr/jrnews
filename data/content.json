@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-24T11:07:28.973Z",
+  "updatedAt": "2026-05-25T12:56:03.274Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ESSE GAROTO É O HOMELANDER DA VIDA REAL",
+      "title": "CANSEI DE DEFENDER BORUTO! IKEMOTO COVARDE [Análise #BorutoTBV34]",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/PHHYE3fUupo",
-      "publishedAt": "2026-05-24",
+      "url": "https://www.youtube.com/watch?v=r1hdkMlde2c",
+      "publishedAt": "2026-05-25",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ESSE GAROTO É O HOMELANDER DA VIDA REAL",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/PHHYE3fUupo",
+      "publishedAt": "2026-05-24",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "THE BOYS CHEGOU AO FIM! MINHA OPINIÃO SINCERA - ANÁLISE DO ÚLTIMO EPISÓDIO",
@@ -180,17 +190,6 @@
       "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=720&q=80",
       "tag": "Radar",
       "trendScore": 84
-    },
-    {
-      "title": "Xbox Wire destaca jogos e atualizações para a semana",
-      "summary": "A editoria de games do Jr News acompanha Xbox Wire e Game Pass para novidades de Microsoft, PC, console e lançamentos semanais.",
-      "category": "Games",
-      "source": "Xbox Wire",
-      "url": "https://news.xbox.com/en-us/",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=720&q=80",
-      "tag": "Xbox",
-      "trendScore": 82
     }
   ]
 }
