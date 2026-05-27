@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-25T12:56:03.274Z",
+  "updatedAt": "2026-05-27T12:47:54.346Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "CANSEI DE DEFENDER BORUTO! IKEMOTO COVARDE [Análise #BorutoTBV34]",
+      "title": "AVATAR: O ÚLTIMO MESTRE DO AR - ANÁLISE DO TRAILER DA SEGUNDA TEMPORADA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=r1hdkMlde2c",
-      "publishedAt": "2026-05-25",
+      "url": "https://www.youtube.com/watch?v=zT39198aeeA",
+      "publishedAt": "2026-05-27",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "CANSEI DE DEFENDER BORUTO! IKEMOTO COVARDE [Análise #BorutoTBV34]",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=r1hdkMlde2c",
+      "publishedAt": "2026-05-25",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ESSE GAROTO É O HOMELANDER DA VIDA REAL",
@@ -179,17 +189,6 @@
       "image": "https://images.unsplash.com/photo-1521791055366-0d553872125f?auto=format&fit=crop&w=720&q=80",
       "tag": "Juventude",
       "trendScore": 86
-    },
-    {
-      "title": "G1 Sul de Minas fica como fonte monitorada para notícias regionais",
-      "summary": "O Jr News acompanha a editoria Sul de Minas do G1 como referência regional, sempre com resumo próprio e link para a matéria original.",
-      "category": "Sul de Minas",
-      "source": "G1 Sul de Minas",
-      "url": "https://g1.globo.com/mg/sul-de-minas/",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=720&q=80",
-      "tag": "Radar",
-      "trendScore": 84
     }
   ]
 }
