@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-28T13:41:07.258Z",
+  "updatedAt": "2026-05-29T12:41:18.988Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O DETALHE SECRETO EM A PAIXÃO DE CRISTO 😱",
+      "title": "ALIENS FILES - TUDO QUE É REAL E ME ASSUSTOU",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/JL3zpcZnosE",
-      "publishedAt": "2026-05-28",
+      "url": "https://www.youtube.com/watch?v=-IBEb-85U1Y",
+      "publishedAt": "2026-05-29",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O DETALHE SECRETO EM A PAIXÃO DE CRISTO 😱",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/JL3zpcZnosE",
+      "publishedAt": "2026-05-28",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "AVATAR: O ÚLTIMO MESTRE DO AR - ANÁLISE DO TRAILER DA SEGUNDA TEMPORADA",
@@ -177,17 +187,6 @@
       "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=720&q=80",
       "tag": "Em alta",
       "trendScore": 90
-    },
-    {
-      "title": "Ei Nerd entra no radar de vídeos do Jr News",
-      "summary": "O canal Ei Nerd, de Peter Jordan, é uma das fontes de cultura pop monitoradas para vídeos sobre filmes, séries, animes, games e universo nerd.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/channel/UCt_4wzTQqmcUvemNkeO0plA",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?auto=format&fit=crop&w=720&q=80",
-      "tag": "YouTube",
-      "trendScore": 88
     }
   ]
 }
