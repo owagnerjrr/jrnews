@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-29T12:41:18.988Z",
+  "updatedAt": "2026-05-30T11:12:23.976Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ALIENS FILES - TUDO QUE É REAL E ME ASSUSTOU",
+      "title": "VAZOU! STEVE ROGERS FICOU NO UNIVERSO DO QUARTETO FANTÁSTICO COM A PEGGY!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=-IBEb-85U1Y",
-      "publishedAt": "2026-05-29",
+      "url": "https://www.youtube.com/watch?v=GZV6XzKg5Jk",
+      "publishedAt": "2026-05-30",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ALIENS FILES - TUDO QUE É REAL E ME ASSUSTOU",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=-IBEb-85U1Y",
+      "publishedAt": "2026-05-29",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O DETALHE SECRETO EM A PAIXÃO DE CRISTO 😱",
@@ -176,17 +186,6 @@
       "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=720&q=80",
       "tag": "Lançamentos",
       "trendScore": 91
-    },
-    {
-      "title": "YouTube Em Alta entra como atalho para vídeos mais vistos",
-      "summary": "Enquanto a integração com a YouTube Data API não estiver configurada, o Jr News mantém um atalho editorial para a página de tendências e vídeos em alta.",
-      "category": "Vídeos",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/feed/trending",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=720&q=80",
-      "tag": "Em alta",
-      "trendScore": 90
     }
   ]
 }
