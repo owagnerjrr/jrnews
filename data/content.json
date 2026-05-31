@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-30T11:12:23.976Z",
+  "updatedAt": "2026-05-31T11:27:12.983Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "VAZOU! STEVE ROGERS FICOU NO UNIVERSO DO QUARTETO FANTÁSTICO COM A PEGGY!",
+      "title": "THE BIG BANG THEORY VAI VOLTAR! SHELDON DESTRUIU O MULTIVERSO [É REAL]",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=GZV6XzKg5Jk",
-      "publishedAt": "2026-05-30",
+      "url": "https://www.youtube.com/watch?v=Nkfeii16KQI",
+      "publishedAt": "2026-05-31",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "VAZOU! STEVE ROGERS FICOU NO UNIVERSO DO QUARTETO FANTÁSTICO COM A PEGGY!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=GZV6XzKg5Jk",
+      "publishedAt": "2026-05-30",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ALIENS FILES - TUDO QUE É REAL E ME ASSUSTOU",
@@ -175,17 +185,6 @@
       "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=720&q=80",
       "tag": "Serviço",
       "trendScore": 92
-    },
-    {
-      "title": "Lançamentos de games da semana movimentam PC, Switch, PlayStation e Xbox",
-      "summary": "A semana de 18 a 24 de maio tem novos jogos e atualizações no radar dos consoles e PC, com atenção para lançamentos multiplataforma.",
-      "category": "Games",
-      "source": "Meristation",
-      "url": "https://as.com/meristation/noticias/los-lanzamientos-de-videojuegos-mas-destacados-de-la-semana-desde-el-18-al-24-de-mayo-de-2026-para-pc-steam-switch-playstation-y-xbox-f202605-n/",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=720&q=80",
-      "tag": "Lançamentos",
-      "trendScore": 91
     }
   ]
 }
