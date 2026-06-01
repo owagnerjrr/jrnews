@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-31T11:27:12.983Z",
+  "updatedAt": "2026-06-01T15:51:29.851Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "THE BIG BANG THEORY VAI VOLTAR! SHELDON DESTRUIU O MULTIVERSO [É REAL]",
+      "title": "EU CHOREI VENDO O NOVO TRAILER DE HE-MAN",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Nkfeii16KQI",
-      "publishedAt": "2026-05-31",
+      "url": "https://www.youtube.com/watch?v=Ku-Hr7nMZm4",
+      "publishedAt": "2026-06-01",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "THE BIG BANG THEORY VAI VOLTAR! SHELDON DESTRUIU O MULTIVERSO [É REAL]",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=Nkfeii16KQI",
+      "publishedAt": "2026-05-31",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "VAZOU! STEVE ROGERS FICOU NO UNIVERSO DO QUARTETO FANTÁSTICO COM A PEGGY!",
@@ -174,17 +184,6 @@
       "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=720&q=80",
       "tag": "Emprego",
       "trendScore": 94
-    },
-    {
-      "title": "Bolsa Família começa pagamento de maio nesta segunda-feira",
-      "summary": "O calendário de maio começa nesta segunda e segue até o dia 29. É um tema de alto interesse nacional e de utilidade pública para leitores da região.",
-      "category": "Sul de Minas",
-      "source": "R7",
-      "url": "https://noticias.r7.com/prisma/conta-em-dia/bolsa-familia-comeca-a-pagar-mais-de-19-milhoes-de-beneficiarios-nesta-segunda-veja-calendario-18052026/",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=720&q=80",
-      "tag": "Serviço",
-      "trendScore": 92
     }
   ]
 }
