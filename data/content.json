@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-01T15:51:29.851Z",
+  "updatedAt": "2026-06-02T13:51:02.137Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "EU CHOREI VENDO O NOVO TRAILER DE HE-MAN",
+      "title": "O MELHOR EPISÓDIO DE JOVENS TITÃS ATÉ HOJE",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Ku-Hr7nMZm4",
-      "publishedAt": "2026-06-01",
+      "url": "https://www.youtube.com/shorts/Qn5tOuzT01Q",
+      "publishedAt": "2026-06-02",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "EU CHOREI VENDO O NOVO TRAILER DE HE-MAN",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=Ku-Hr7nMZm4",
+      "publishedAt": "2026-06-01",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "THE BIG BANG THEORY VAI VOLTAR! SHELDON DESTRUIU O MULTIVERSO [É REAL]",
@@ -173,17 +183,6 @@
       "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=720&q=80",
       "tag": "Seleção",
       "trendScore": 100
-    },
-    {
-      "title": "Três Corações + Emprego reúne vagas e currículos em plataforma municipal",
-      "summary": "A plataforma conecta candidatos e empresas. Entre as vagas listadas estão vendedor, auxiliar de logística, eletricista de autos e analista de marketing.",
-      "category": "Sul de Minas",
-      "source": "Prefeitura de Três Corações",
-      "url": "https://trescoracoes.mg.gov.br/empregatrescoracoes",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=720&q=80",
-      "tag": "Emprego",
-      "trendScore": 94
     }
   ]
 }
