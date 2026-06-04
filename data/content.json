@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-06-03T14:21:25.751Z",
+  "updatedAt": "2026-06-04T12:38:29.299Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
+    {
+      "title": "MAYK LEÃO - O HOMEM QUE FILMOU OVNIS NO PARANÁ",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=4AVyhLNi0u4",
+      "publishedAt": "2026-06-04",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
+    },
+    {
+      "title": "Novidades do Xbox Wire",
+      "summary": "Atualização oficial monitorada pelo Jr News para Game Pass, Xbox, PC e estúdios Microsoft.",
+      "category": "Games",
+      "source": "Xbox Wire",
+      "url": "https://news.xbox.com/en-us/2026/05/18/introducing-xbox-player-voice/",
+      "publishedAt": "2026-05-19",
+      "image": "./assets/thumb-games.svg",
+      "tag": "Xbox"
+    },
     {
       "title": "VOCÊ LEMBRA DA ABERTURA DE BABY LOONEY TUNES",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
@@ -21,16 +41,6 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "PlayStation"
-    },
-    {
-      "title": "Novidades do Xbox Wire",
-      "summary": "Atualização oficial monitorada pelo Jr News para Game Pass, Xbox, PC e estúdios Microsoft.",
-      "category": "Games",
-      "source": "Xbox Wire",
-      "url": "https://news.xbox.com/en-us/2026/05/18/introducing-xbox-player-voice/",
-      "publishedAt": "2026-05-19",
-      "image": "./assets/thumb-games.svg",
-      "tag": "Xbox"
     },
     {
       "title": "O MELHOR EPISÓDIO DE JOVENS TITÃS ATÉ HOJE",
@@ -172,16 +182,6 @@
       "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=720&q=80",
       "tag": "Cidade",
       "trendScore": 96
-    },
-    {
-      "title": "Três Corações + Emprego atualiza oportunidades locais",
-      "summary": "A plataforma municipal lista vagas como Professor, Vendedor, Analista de Marketing.",
-      "category": "Sul de Minas",
-      "source": "Prefeitura de Três Corações",
-      "url": "https://trescoracoes.mg.gov.br/empregatrescoracoes",
-      "publishedAt": "2026-05-18",
-      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=720&q=80",
-      "tag": "Emprego"
     }
   ]
 }
