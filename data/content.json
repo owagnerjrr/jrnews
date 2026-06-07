@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-06T11:16:43.363Z",
+  "updatedAt": "2026-06-07T11:42:38.057Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A ORIGEM DOS PODERES DO SUPER CHOQUE",
+      "title": "COMO O ROBIN CRIOU OS JOVENS TITÃS",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/JkxsJfGzS1o",
-      "publishedAt": "2026-06-06",
+      "url": "https://www.youtube.com/shorts/BBQCILNHvTo",
+      "publishedAt": "2026-06-07",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A ORIGEM DOS PODERES DO SUPER CHOQUE",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/JkxsJfGzS1o",
+      "publishedAt": "2026-06-06",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "OS HOMENS DE PRETO ESTÃO ATRÁS DO MAYK LEÃO?",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=Z-S6yfVxwUk",
       "publishedAt": "2026-05-21",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "VIAGEM INTERESTELLAR É POSSÍVEL? NOVO FOGUETE VINDO AÍ?",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=ozTOWvmwAX8",
-      "publishedAt": "2026-05-20",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
