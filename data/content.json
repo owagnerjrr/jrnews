@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-08T13:58:32.854Z",
+  "updatedAt": "2026-06-09T12:30:37.829Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "AS MAIORES TROLLADAS COM PETER JORDAN",
+      "title": "É O FIM! MAYK LEÃO FOI DESMASCARADO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/D9V3dbyyfC8",
-      "publishedAt": "2026-06-08",
+      "url": "https://www.youtube.com/watch?v=S_4ThdndjkA",
+      "publishedAt": "2026-06-09",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "AS MAIORES TROLLADAS COM PETER JORDAN",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/D9V3dbyyfC8",
+      "publishedAt": "2026-06-08",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "COMO O ROBIN CRIOU OS JOVENS TITÃS",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/PHHYE3fUupo",
       "publishedAt": "2026-05-24",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "THE BOYS CHEGOU AO FIM! MINHA OPINIÃO SINCERA - ANÁLISE DO ÚLTIMO EPISÓDIO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=2rvCPSKFhow",
-      "publishedAt": "2026-05-22",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
