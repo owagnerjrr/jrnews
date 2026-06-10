@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-09T12:30:37.829Z",
+  "updatedAt": "2026-06-10T12:48:39.700Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "É O FIM! MAYK LEÃO FOI DESMASCARADO",
+      "title": "A FARSA DO MAYK LEÃO SOBRE OS ALIENS FOI REVELADA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=S_4ThdndjkA",
-      "publishedAt": "2026-06-09",
+      "url": "https://www.youtube.com/shorts/m7zB3p44w_Y",
+      "publishedAt": "2026-06-10",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "É O FIM! MAYK LEÃO FOI DESMASCARADO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=S_4ThdndjkA",
+      "publishedAt": "2026-06-09",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "AS MAIORES TROLLADAS COM PETER JORDAN",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=r1hdkMlde2c",
       "publishedAt": "2026-05-25",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ESSE GAROTO É O HOMELANDER DA VIDA REAL",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/PHHYE3fUupo",
-      "publishedAt": "2026-05-24",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
