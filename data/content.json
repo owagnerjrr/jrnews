@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-10T12:48:39.700Z",
+  "updatedAt": "2026-06-11T13:52:16.907Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A FARSA DO MAYK LEÃO SOBRE OS ALIENS FOI REVELADA",
+      "title": "O FINAL DE JOVENS TITÃS VIROU LOST MEDIA NO BRASIL",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/m7zB3p44w_Y",
-      "publishedAt": "2026-06-10",
+      "url": "https://www.youtube.com/shorts/n-HHLYS2riQ",
+      "publishedAt": "2026-06-11",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A FARSA DO MAYK LEÃO SOBRE OS ALIENS FOI REVELADA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/m7zB3p44w_Y",
+      "publishedAt": "2026-06-10",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "É O FIM! MAYK LEÃO FOI DESMASCARADO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=zT39198aeeA",
       "publishedAt": "2026-05-27",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "CANSEI DE DEFENDER BORUTO! IKEMOTO COVARDE [Análise #BorutoTBV34]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=r1hdkMlde2c",
-      "publishedAt": "2026-05-25",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
