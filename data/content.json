@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-11T13:52:16.907Z",
+  "updatedAt": "2026-06-12T12:49:23.340Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O FINAL DE JOVENS TITÃS VIROU LOST MEDIA NO BRASIL",
+      "title": "VALE A PENA? ASSISTI TODO MUNDO EM PÂNICO 6 - MINHA OPINIÃO SINCERA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/n-HHLYS2riQ",
-      "publishedAt": "2026-06-11",
+      "url": "https://www.youtube.com/watch?v=6oJbnlseaPw",
+      "publishedAt": "2026-06-12",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O FINAL DE JOVENS TITÃS VIROU LOST MEDIA NO BRASIL",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/n-HHLYS2riQ",
+      "publishedAt": "2026-06-11",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A FARSA DO MAYK LEÃO SOBRE OS ALIENS FOI REVELADA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/JL3zpcZnosE",
       "publishedAt": "2026-05-28",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "AVATAR: O ÚLTIMO MESTRE DO AR - ANÁLISE DO TRAILER DA SEGUNDA TEMPORADA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=zT39198aeeA",
-      "publishedAt": "2026-05-27",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
