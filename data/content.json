@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-12T12:49:23.340Z",
+  "updatedAt": "2026-06-13T11:47:06.508Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "VALE A PENA? ASSISTI TODO MUNDO EM PÂNICO 6 - MINHA OPINIÃO SINCERA",
+      "title": "STAR WARS ACABOU COM MANDALORIAN E GROGU!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=6oJbnlseaPw",
-      "publishedAt": "2026-06-12",
+      "url": "https://www.youtube.com/shorts/4t-w1tjZMo8",
+      "publishedAt": "2026-06-13",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "VALE A PENA? ASSISTI TODO MUNDO EM PÂNICO 6 - MINHA OPINIÃO SINCERA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=6oJbnlseaPw",
+      "publishedAt": "2026-06-12",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O FINAL DE JOVENS TITÃS VIROU LOST MEDIA NO BRASIL",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=-IBEb-85U1Y",
       "publishedAt": "2026-05-29",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O DETALHE SECRETO EM A PAIXÃO DE CRISTO 😱",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/JL3zpcZnosE",
-      "publishedAt": "2026-05-28",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
