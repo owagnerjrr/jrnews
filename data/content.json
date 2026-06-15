@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-14T11:48:55.984Z",
+  "updatedAt": "2026-06-15T15:36:40.645Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O NOVO SCOOBY DOO FICOU ESTRANHO",
+      "title": "ASSISTI BACKROOMS: UM NÃO LUGAR - MINHA OPINIÃO SINCERA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/QAqWTxiDrrU",
-      "publishedAt": "2026-06-14",
+      "url": "https://www.youtube.com/watch?v=kVdOzzVDONo",
+      "publishedAt": "2026-06-15",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O NOVO SCOOBY DOO FICOU ESTRANHO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/QAqWTxiDrrU",
+      "publishedAt": "2026-06-14",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "STAR WARS ACABOU COM MANDALORIAN E GROGU!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=Nkfeii16KQI",
       "publishedAt": "2026-05-31",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "VAZOU! STEVE ROGERS FICOU NO UNIVERSO DO QUARTETO FANTÁSTICO COM A PEGGY!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=GZV6XzKg5Jk",
-      "publishedAt": "2026-05-30",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
