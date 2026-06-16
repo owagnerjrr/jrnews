@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-15T15:36:40.645Z",
+  "updatedAt": "2026-06-16T14:52:48.382Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ASSISTI BACKROOMS: UM NÃO LUGAR - MINHA OPINIÃO SINCERA",
+      "title": "O KRATOS QUE GRITA BAIXINHO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=kVdOzzVDONo",
-      "publishedAt": "2026-06-15",
+      "url": "https://www.youtube.com/shorts/2wsJtqO7g_I",
+      "publishedAt": "2026-06-16",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ASSISTI BACKROOMS: UM NÃO LUGAR - MINHA OPINIÃO SINCERA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=kVdOzzVDONo",
+      "publishedAt": "2026-06-15",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O NOVO SCOOBY DOO FICOU ESTRANHO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=Ku-Hr7nMZm4",
       "publishedAt": "2026-06-01",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "THE BIG BANG THEORY VAI VOLTAR! SHELDON DESTRUIU O MULTIVERSO [É REAL]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Nkfeii16KQI",
-      "publishedAt": "2026-05-31",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
