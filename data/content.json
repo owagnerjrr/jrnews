@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-16T14:52:48.382Z",
+  "updatedAt": "2026-06-17T13:36:02.707Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O KRATOS QUE GRITA BAIXINHO",
+      "title": "O FUTURO ALTERNATIVO DO HOMER SIMPSON",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/2wsJtqO7g_I",
-      "publishedAt": "2026-06-16",
+      "url": "https://www.youtube.com/shorts/uLiCYMoDLRM",
+      "publishedAt": "2026-06-17",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O KRATOS QUE GRITA BAIXINHO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/2wsJtqO7g_I",
+      "publishedAt": "2026-06-16",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ASSISTI BACKROOMS: UM NÃO LUGAR - MINHA OPINIÃO SINCERA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/Qn5tOuzT01Q",
       "publishedAt": "2026-06-02",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "EU CHOREI VENDO O NOVO TRAILER DE HE-MAN",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Ku-Hr7nMZm4",
-      "publishedAt": "2026-06-01",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
