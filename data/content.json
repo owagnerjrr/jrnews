@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-17T13:36:02.707Z",
+  "updatedAt": "2026-06-18T12:45:10.579Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O FUTURO ALTERNATIVO DO HOMER SIMPSON",
+      "title": "COMO O HOMEM ARANHA VAI VENCER O HULK",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/uLiCYMoDLRM",
-      "publishedAt": "2026-06-17",
+      "url": "https://www.youtube.com/shorts/2ap6JzFSrHg",
+      "publishedAt": "2026-06-18",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O FUTURO ALTERNATIVO DO HOMER SIMPSON",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/uLiCYMoDLRM",
+      "publishedAt": "2026-06-17",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O KRATOS QUE GRITA BAIXINHO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/3A28xymyUIQ",
       "publishedAt": "2026-06-03",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O MELHOR EPISÓDIO DE JOVENS TITÃS ATÉ HOJE",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/Qn5tOuzT01Q",
-      "publishedAt": "2026-06-02",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
