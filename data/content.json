@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-18T12:45:10.579Z",
+  "updatedAt": "2026-06-19T13:27:12.284Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "COMO O HOMEM ARANHA VAI VENCER O HULK",
+      "title": "O QUE O PAIRULITO FEZ DEPOIS DE SALVAR O MUNDO?",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/2ap6JzFSrHg",
-      "publishedAt": "2026-06-18",
+      "url": "https://www.youtube.com/shorts/osMO6m-JZc4",
+      "publishedAt": "2026-06-19",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "COMO O HOMEM ARANHA VAI VENCER O HULK",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/2ap6JzFSrHg",
+      "publishedAt": "2026-06-18",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O FUTURO ALTERNATIVO DO HOMER SIMPSON",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=4AVyhLNi0u4",
       "publishedAt": "2026-06-04",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "VOCÊ LEMBRA DA ABERTURA DE BABY LOONEY TUNES",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/3A28xymyUIQ",
-      "publishedAt": "2026-06-03",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
