@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-19T13:27:12.284Z",
+  "updatedAt": "2026-06-20T11:50:36.886Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O QUE O PAIRULITO FEZ DEPOIS DE SALVAR O MUNDO?",
+      "title": "O QUE SÃO AS BACKROOMS?",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/osMO6m-JZc4",
-      "publishedAt": "2026-06-19",
+      "url": "https://www.youtube.com/shorts/DCeDT4kUBvk",
+      "publishedAt": "2026-06-20",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O QUE O PAIRULITO FEZ DEPOIS DE SALVAR O MUNDO?",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/osMO6m-JZc4",
+      "publishedAt": "2026-06-19",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "COMO O HOMEM ARANHA VAI VENCER O HULK",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=_PDlvF7Al7Y",
       "publishedAt": "2026-06-05",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "MAYK LEÃO - O HOMEM QUE FILMOU OVNIS NO PARANÁ",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=4AVyhLNi0u4",
-      "publishedAt": "2026-06-04",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
