@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-20T11:50:36.886Z",
+  "updatedAt": "2026-06-21T12:04:36.707Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O QUE SÃO AS BACKROOMS?",
+      "title": "O CANDIDATO QUE REVELOU A VERDADE SOBRE O ET DE VARGÍNIA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/DCeDT4kUBvk",
-      "publishedAt": "2026-06-20",
+      "url": "https://www.youtube.com/shorts/yPu4TohUrNM",
+      "publishedAt": "2026-06-21",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O QUE SÃO AS BACKROOMS?",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/DCeDT4kUBvk",
+      "publishedAt": "2026-06-20",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O QUE O PAIRULITO FEZ DEPOIS DE SALVAR O MUNDO?",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/JkxsJfGzS1o",
       "publishedAt": "2026-06-06",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "OS HOMENS DE PRETO ESTÃO ATRÁS DO MAYK LEÃO?",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=_PDlvF7Al7Y",
-      "publishedAt": "2026-06-05",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
