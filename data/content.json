@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-21T12:04:36.707Z",
+  "updatedAt": "2026-06-22T15:13:14.185Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O CANDIDATO QUE REVELOU A VERDADE SOBRE O ET DE VARGÍNIA",
+      "title": "UMA DAS MELHORES CENAS DE 007 ATÉ HOJE?",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/yPu4TohUrNM",
-      "publishedAt": "2026-06-21",
+      "url": "https://www.youtube.com/shorts/QJRNEzJ6ZhQ",
+      "publishedAt": "2026-06-22",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O CANDIDATO QUE REVELOU A VERDADE SOBRE O ET DE VARGÍNIA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/yPu4TohUrNM",
+      "publishedAt": "2026-06-21",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O QUE SÃO AS BACKROOMS?",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/BBQCILNHvTo",
       "publishedAt": "2026-06-07",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A ORIGEM DOS PODERES DO SUPER CHOQUE",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/JkxsJfGzS1o",
-      "publishedAt": "2026-06-06",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
