@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-22T15:13:14.185Z",
+  "updatedAt": "2026-06-23T12:27:51.911Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "UMA DAS MELHORES CENAS DE 007 ATÉ HOJE?",
+      "title": "ASSISTI TOY STORY 5 E MUDEI DE IDEIA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/QJRNEzJ6ZhQ",
-      "publishedAt": "2026-06-22",
+      "url": "https://www.youtube.com/shorts/vtzKntxMlNE",
+      "publishedAt": "2026-06-23",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "UMA DAS MELHORES CENAS DE 007 ATÉ HOJE?",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/QJRNEzJ6ZhQ",
+      "publishedAt": "2026-06-22",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O CANDIDATO QUE REVELOU A VERDADE SOBRE O ET DE VARGÍNIA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/D9V3dbyyfC8",
       "publishedAt": "2026-06-08",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "COMO O ROBIN CRIOU OS JOVENS TITÃS",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/BBQCILNHvTo",
-      "publishedAt": "2026-06-07",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
