@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-23T12:27:51.911Z",
+  "updatedAt": "2026-06-24T12:13:32.089Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ASSISTI TOY STORY 5 E MUDEI DE IDEIA",
+      "title": "ESTRAGARAM O SHREK COM ESSE FILME",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/vtzKntxMlNE",
-      "publishedAt": "2026-06-23",
+      "url": "https://www.youtube.com/shorts/X31rgk5NLac",
+      "publishedAt": "2026-06-24",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ASSISTI TOY STORY 5 E MUDEI DE IDEIA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/vtzKntxMlNE",
+      "publishedAt": "2026-06-23",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "UMA DAS MELHORES CENAS DE 007 ATÉ HOJE?",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=S_4ThdndjkA",
       "publishedAt": "2026-06-09",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "AS MAIORES TROLLADAS COM PETER JORDAN",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/D9V3dbyyfC8",
-      "publishedAt": "2026-06-08",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
