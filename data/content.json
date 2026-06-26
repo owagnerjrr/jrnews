@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-25T12:11:37.919Z",
+  "updatedAt": "2026-06-26T12:06:07.465Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A BATALHA DA GOELA - ANÁLISE EP 1 - HotD [CASA DO DRAGÃO 3⁰ temporada]",
+      "title": "JOGANDO CS2 COM O PROFESSOR",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Zf4tZtYQmc0",
-      "publishedAt": "2026-06-25",
+      "url": "https://www.youtube.com/watch?v=OAljiRs5GbY",
+      "publishedAt": "2026-06-26",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A BATALHA DA GOELA - ANÁLISE EP 1 - HotD [CASA DO DRAGÃO 3⁰ temporada]",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=Zf4tZtYQmc0",
+      "publishedAt": "2026-06-25",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ESTRAGARAM O SHREK COM ESSE FILME",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/n-HHLYS2riQ",
       "publishedAt": "2026-06-11",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A FARSA DO MAYK LEÃO SOBRE OS ALIENS FOI REVELADA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/m7zB3p44w_Y",
-      "publishedAt": "2026-06-10",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
