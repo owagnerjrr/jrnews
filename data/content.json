@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-26T12:06:07.465Z",
+  "updatedAt": "2026-06-27T11:19:55.921Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "JOGANDO CS2 COM O PROFESSOR",
+      "title": "A RELAÇÃO DO IMU COM O BROOK EM ONE PIECE",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=OAljiRs5GbY",
-      "publishedAt": "2026-06-26",
+      "url": "https://www.youtube.com/shorts/_Y-rG2e6etc",
+      "publishedAt": "2026-06-27",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "JOGANDO CS2 COM O PROFESSOR",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=OAljiRs5GbY",
+      "publishedAt": "2026-06-26",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A BATALHA DA GOELA - ANÁLISE EP 1 - HotD [CASA DO DRAGÃO 3⁰ temporada]",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=6oJbnlseaPw",
       "publishedAt": "2026-06-12",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O FINAL DE JOVENS TITÃS VIROU LOST MEDIA NO BRASIL",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/n-HHLYS2riQ",
-      "publishedAt": "2026-06-11",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
