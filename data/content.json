@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-27T11:19:55.921Z",
+  "updatedAt": "2026-06-28T11:41:34.221Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A RELAÇÃO DO IMU COM O BROOK EM ONE PIECE",
+      "title": "EI NERD vs EUA [Marvel Rivals Championship]",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/_Y-rG2e6etc",
-      "publishedAt": "2026-06-27",
+      "url": "https://www.youtube.com/watch?v=UkTfg3WyUBo",
+      "publishedAt": "2026-06-28",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A RELAÇÃO DO IMU COM O BROOK EM ONE PIECE",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/_Y-rG2e6etc",
+      "publishedAt": "2026-06-27",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "JOGANDO CS2 COM O PROFESSOR",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/4t-w1tjZMo8",
       "publishedAt": "2026-06-13",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "VALE A PENA? ASSISTI TODO MUNDO EM PÂNICO 6 - MINHA OPINIÃO SINCERA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=6oJbnlseaPw",
-      "publishedAt": "2026-06-12",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
