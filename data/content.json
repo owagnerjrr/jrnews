@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-28T11:41:34.221Z",
+  "updatedAt": "2026-06-29T13:58:04.135Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "EI NERD vs EUA [Marvel Rivals Championship]",
+      "title": "IMAGINE OS VINGADORES NOS ANOS 80!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=UkTfg3WyUBo",
-      "publishedAt": "2026-06-28",
+      "url": "https://www.youtube.com/shorts/zyrbFyhmyBE",
+      "publishedAt": "2026-06-29",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "EI NERD vs EUA [Marvel Rivals Championship]",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=UkTfg3WyUBo",
+      "publishedAt": "2026-06-28",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A RELAÇÃO DO IMU COM O BROOK EM ONE PIECE",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/QAqWTxiDrrU",
       "publishedAt": "2026-06-14",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "STAR WARS ACABOU COM MANDALORIAN E GROGU!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/4t-w1tjZMo8",
-      "publishedAt": "2026-06-13",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
