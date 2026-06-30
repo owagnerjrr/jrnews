@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-29T13:58:04.135Z",
+  "updatedAt": "2026-06-30T12:03:59.821Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "IMAGINE OS VINGADORES NOS ANOS 80!",
+      "title": "A JEAN GREY VAI TRAZER OS NOVOS X-MEN PRA MARVEL",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/zyrbFyhmyBE",
-      "publishedAt": "2026-06-29",
+      "url": "https://www.youtube.com/shorts/e8tEGK5_Y90",
+      "publishedAt": "2026-06-30",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "IMAGINE OS VINGADORES NOS ANOS 80!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/zyrbFyhmyBE",
+      "publishedAt": "2026-06-29",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "EI NERD vs EUA [Marvel Rivals Championship]",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=kVdOzzVDONo",
       "publishedAt": "2026-06-15",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O NOVO SCOOBY DOO FICOU ESTRANHO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/QAqWTxiDrrU",
-      "publishedAt": "2026-06-14",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
