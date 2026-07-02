@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-01T12:27:17.820Z",
+  "updatedAt": "2026-07-02T12:02:08.972Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "URGENTE - ALIENS ABATEM CAÇA AMERICANO NO IRÃ",
+      "title": "BATMAN POBRE E CORINGA BILIONÁRIO - O UNIVERSO ABSOLUTE INVERTEU TUDO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=VfiHFSVAzZs",
-      "publishedAt": "2026-07-01",
+      "url": "https://www.youtube.com/watch?v=Ohk6sxKU1yQ",
+      "publishedAt": "2026-07-02",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "URGENTE - ALIENS ABATEM CAÇA AMERICANO NO IRÃ",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=VfiHFSVAzZs",
+      "publishedAt": "2026-07-01",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A JEAN GREY VAI TRAZER OS NOVOS X-MEN PRA MARVEL",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/uLiCYMoDLRM",
       "publishedAt": "2026-06-17",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O KRATOS QUE GRITA BAIXINHO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/2wsJtqO7g_I",
-      "publishedAt": "2026-06-16",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
