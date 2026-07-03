@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-02T12:02:08.972Z",
+  "updatedAt": "2026-07-03T11:59:49.499Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "BATMAN POBRE E CORINGA BILIONÁRIO - O UNIVERSO ABSOLUTE INVERTEU TUDO",
+      "title": "A ESFERA PERFEITA NO MEIO DO ESPAÇO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Ohk6sxKU1yQ",
-      "publishedAt": "2026-07-02",
+      "url": "https://www.youtube.com/shorts/Hm1chUKpWRk",
+      "publishedAt": "2026-07-03",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "BATMAN POBRE E CORINGA BILIONÁRIO - O UNIVERSO ABSOLUTE INVERTEU TUDO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=Ohk6sxKU1yQ",
+      "publishedAt": "2026-07-02",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "URGENTE - ALIENS ABATEM CAÇA AMERICANO NO IRÃ",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/2ap6JzFSrHg",
       "publishedAt": "2026-06-18",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O FUTURO ALTERNATIVO DO HOMER SIMPSON",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/uLiCYMoDLRM",
-      "publishedAt": "2026-06-17",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
