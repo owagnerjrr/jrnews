@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-03T11:59:49.499Z",
+  "updatedAt": "2026-07-04T11:17:11.840Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A ESFERA PERFEITA NO MEIO DO ESPAÇO",
+      "title": "SEM DISCUSSÃO! GTA 6 JÁ É O MAIOR GAME DA HISTÓRIA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/Hm1chUKpWRk",
-      "publishedAt": "2026-07-03",
+      "url": "https://www.youtube.com/watch?v=z9Ntek0I6XY",
+      "publishedAt": "2026-07-04",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A ESFERA PERFEITA NO MEIO DO ESPAÇO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/Hm1chUKpWRk",
+      "publishedAt": "2026-07-03",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "BATMAN POBRE E CORINGA BILIONÁRIO - O UNIVERSO ABSOLUTE INVERTEU TUDO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/osMO6m-JZc4",
       "publishedAt": "2026-06-19",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "COMO O HOMEM ARANHA VAI VENCER O HULK",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/2ap6JzFSrHg",
-      "publishedAt": "2026-06-18",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
