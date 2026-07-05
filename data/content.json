@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-04T11:17:11.840Z",
+  "updatedAt": "2026-07-05T11:22:51.582Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "SEM DISCUSSÃO! GTA 6 JÁ É O MAIOR GAME DA HISTÓRIA",
+      "title": "TODAS AS CASAS E LADOS DA GUERRA EXPLICADOS EM HOUSE OF THE DRAGON",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=z9Ntek0I6XY",
-      "publishedAt": "2026-07-04",
+      "url": "https://www.youtube.com/watch?v=in0Bo0YRJ_A",
+      "publishedAt": "2026-07-05",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "SEM DISCUSSÃO! GTA 6 JÁ É O MAIOR GAME DA HISTÓRIA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=z9Ntek0I6XY",
+      "publishedAt": "2026-07-04",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A ESFERA PERFEITA NO MEIO DO ESPAÇO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/DCeDT4kUBvk",
       "publishedAt": "2026-06-20",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O QUE O PAIRULITO FEZ DEPOIS DE SALVAR O MUNDO?",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/osMO6m-JZc4",
-      "publishedAt": "2026-06-19",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
