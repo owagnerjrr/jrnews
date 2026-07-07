@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-06T13:37:26.379Z",
+  "updatedAt": "2026-07-07T12:21:24.668Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "OS ATORES DE THE BOYS SE FOSSE NOS ANOS 80",
+      "title": "O LIVRO PERDIDO QUE NINGUÉM CONSEGUE ENTENDER!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/gEdEzCKH_74",
-      "publishedAt": "2026-07-06",
+      "url": "https://www.youtube.com/shorts/ZzX58yoECeI",
+      "publishedAt": "2026-07-07",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "OS ATORES DE THE BOYS SE FOSSE NOS ANOS 80",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/gEdEzCKH_74",
+      "publishedAt": "2026-07-06",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "TODAS AS CASAS E LADOS DA GUERRA EXPLICADOS EM HOUSE OF THE DRAGON",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/QJRNEzJ6ZhQ",
       "publishedAt": "2026-06-22",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O CANDIDATO QUE REVELOU A VERDADE SOBRE O ET DE VARGÍNIA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/yPu4TohUrNM",
-      "publishedAt": "2026-06-21",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
