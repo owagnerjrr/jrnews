@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-07T12:21:24.668Z",
+  "updatedAt": "2026-07-08T11:41:40.635Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O LIVRO PERDIDO QUE NINGUÉM CONSEGUE ENTENDER!",
+      "title": "VAZOU O FILME INTEIRO... VINGADORES DOOMSDAY JÁ ERA?",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/ZzX58yoECeI",
-      "publishedAt": "2026-07-07",
+      "url": "https://www.youtube.com/watch?v=pTDDZJXVV70",
+      "publishedAt": "2026-07-08",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O LIVRO PERDIDO QUE NINGUÉM CONSEGUE ENTENDER!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/ZzX58yoECeI",
+      "publishedAt": "2026-07-07",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "OS ATORES DE THE BOYS SE FOSSE NOS ANOS 80",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/vtzKntxMlNE",
       "publishedAt": "2026-06-23",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "UMA DAS MELHORES CENAS DE 007 ATÉ HOJE?",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/QJRNEzJ6ZhQ",
-      "publishedAt": "2026-06-22",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
