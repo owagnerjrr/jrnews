@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-08T11:41:40.635Z",
+  "updatedAt": "2026-07-09T12:26:13.256Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "VAZOU O FILME INTEIRO... VINGADORES DOOMSDAY JÁ ERA?",
+      "title": "ESTREIAS DO MÊS DE JULHO NO CINEMA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=pTDDZJXVV70",
-      "publishedAt": "2026-07-08",
+      "url": "https://www.youtube.com/watch?v=Vwhl8eZGl2w",
+      "publishedAt": "2026-07-09",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "VAZOU O FILME INTEIRO... VINGADORES DOOMSDAY JÁ ERA?",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=pTDDZJXVV70",
+      "publishedAt": "2026-07-08",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O LIVRO PERDIDO QUE NINGUÉM CONSEGUE ENTENDER!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/X31rgk5NLac",
       "publishedAt": "2026-06-24",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ASSISTI TOY STORY 5 E MUDEI DE IDEIA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/vtzKntxMlNE",
-      "publishedAt": "2026-06-23",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
