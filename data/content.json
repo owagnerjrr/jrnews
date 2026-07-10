@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-09T12:26:13.256Z",
+  "updatedAt": "2026-07-10T12:19:27.504Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ESTREIAS DO MÊS DE JULHO NO CINEMA",
+      "title": "A TENTEN PODERIA TER SELADO O MADARA E EU POSSO PROVAR!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Vwhl8eZGl2w",
-      "publishedAt": "2026-07-09",
+      "url": "https://www.youtube.com/watch?v=iSnfG4StZt0",
+      "publishedAt": "2026-07-10",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ESTREIAS DO MÊS DE JULHO NO CINEMA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=Vwhl8eZGl2w",
+      "publishedAt": "2026-07-09",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "VAZOU O FILME INTEIRO... VINGADORES DOOMSDAY JÁ ERA?",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=Zf4tZtYQmc0",
       "publishedAt": "2026-06-25",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ESTRAGARAM O SHREK COM ESSE FILME",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/X31rgk5NLac",
-      "publishedAt": "2026-06-24",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
