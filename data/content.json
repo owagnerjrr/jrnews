@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-12T11:04:21.943Z",
+  "updatedAt": "2026-07-13T12:25:46.700Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ÉPICO! SPACE GODZILLA Vs MECHAGODZILLA VAI ACONTECER",
+      "title": "X-MEN 97 - PACTO DO APOCALIPSE COM OS CELESTIAIS E ILLUMINATIS EXPLICADO [Análise do Episódio 4]",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=GNDqhFuhrdw",
-      "publishedAt": "2026-07-12",
+      "url": "https://www.youtube.com/watch?v=2-un5ogept4",
+      "publishedAt": "2026-07-13",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ÉPICO! SPACE GODZILLA Vs MECHAGODZILLA VAI ACONTECER",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=GNDqhFuhrdw",
+      "publishedAt": "2026-07-12",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "HISTÓRIA DA ROCKSTAR: DE UMA FÁBRICA FALIDA AO MAIOR LANÇAMENTO DA HISTÓRIA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=UkTfg3WyUBo",
       "publishedAt": "2026-06-28",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A RELAÇÃO DO IMU COM O BROOK EM ONE PIECE",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/_Y-rG2e6etc",
-      "publishedAt": "2026-06-27",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
