@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-13T12:25:46.700Z",
+  "updatedAt": "2026-07-14T11:17:24.104Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "X-MEN 97 - PACTO DO APOCALIPSE COM OS CELESTIAIS E ILLUMINATIS EXPLICADO [Análise do Episódio 4]",
+      "title": "TODAS AS ESTREIAS DE JULHO NOS STREAMINGS",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=2-un5ogept4",
-      "publishedAt": "2026-07-13",
+      "url": "https://www.youtube.com/watch?v=caRfkC9LAD0",
+      "publishedAt": "2026-07-14",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "X-MEN 97 - PACTO DO APOCALIPSE COM OS CELESTIAIS E ILLUMINATIS EXPLICADO [Análise do Episódio 4]",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=2-un5ogept4",
+      "publishedAt": "2026-07-13",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ÉPICO! SPACE GODZILLA Vs MECHAGODZILLA VAI ACONTECER",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/zyrbFyhmyBE",
       "publishedAt": "2026-06-29",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "EI NERD vs EUA [Marvel Rivals Championship]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=UkTfg3WyUBo",
-      "publishedAt": "2026-06-28",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
