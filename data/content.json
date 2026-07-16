@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-15T11:21:16.485Z",
+  "updatedAt": "2026-07-16T11:26:27.546Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A CASA DO DRAGÃO: O GOLPE PELO TRONO DE FERRO! [análise do episódio 04]",
+      "title": "BOMBA! 1⁰ IMAGEM OFICIAL REVELOU O MAIOR SEGREDO DE VINGADORES DOOMSDAY",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=8aOfcX0oojo",
-      "publishedAt": "2026-07-15",
+      "url": "https://www.youtube.com/watch?v=YNtktz38TAU",
+      "publishedAt": "2026-07-16",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A CASA DO DRAGÃO: O GOLPE PELO TRONO DE FERRO! [análise do episódio 04]",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=8aOfcX0oojo",
+      "publishedAt": "2026-07-15",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "TODAS AS ESTREIAS DE JULHO NOS STREAMINGS",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=VfiHFSVAzZs",
       "publishedAt": "2026-07-01",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A JEAN GREY VAI TRAZER OS NOVOS X-MEN PRA MARVEL",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/e8tEGK5_Y90",
-      "publishedAt": "2026-06-30",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
