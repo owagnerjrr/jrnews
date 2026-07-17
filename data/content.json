@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-16T11:26:27.546Z",
+  "updatedAt": "2026-07-17T11:14:11.050Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "BOMBA! 1⁰ IMAGEM OFICIAL REVELOU O MAIOR SEGREDO DE VINGADORES DOOMSDAY",
+      "title": "MEU DEUS! O FINAL DE HOMEM ARANHA 4 VAI SER HORRÍVEL!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=YNtktz38TAU",
-      "publishedAt": "2026-07-16",
+      "url": "https://www.youtube.com/watch?v=ULyVG97a-2E",
+      "publishedAt": "2026-07-17",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "BOMBA! 1⁰ IMAGEM OFICIAL REVELOU O MAIOR SEGREDO DE VINGADORES DOOMSDAY",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=YNtktz38TAU",
+      "publishedAt": "2026-07-16",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A CASA DO DRAGÃO: O GOLPE PELO TRONO DE FERRO! [análise do episódio 04]",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=Ohk6sxKU1yQ",
       "publishedAt": "2026-07-02",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "URGENTE - ALIENS ABATEM CAÇA AMERICANO NO IRÃ",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=VfiHFSVAzZs",
-      "publishedAt": "2026-07-01",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
