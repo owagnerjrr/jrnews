@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-17T11:14:11.050Z",
+  "updatedAt": "2026-07-18T10:55:19.427Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "MEU DEUS! O FINAL DE HOMEM ARANHA 4 VAI SER HORRÍVEL!",
+      "title": "ASSISTI A ODISSÉIA - MINHA OPINIÃO SINCERA [Review Sem Spoilers]",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=ULyVG97a-2E",
-      "publishedAt": "2026-07-17",
+      "url": "https://www.youtube.com/watch?v=PEpFt3LGwCk",
+      "publishedAt": "2026-07-18",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "MEU DEUS! O FINAL DE HOMEM ARANHA 4 VAI SER HORRÍVEL!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=ULyVG97a-2E",
+      "publishedAt": "2026-07-17",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "BOMBA! 1⁰ IMAGEM OFICIAL REVELOU O MAIOR SEGREDO DE VINGADORES DOOMSDAY",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/Hm1chUKpWRk",
       "publishedAt": "2026-07-03",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "BATMAN POBRE E CORINGA BILIONÁRIO - O UNIVERSO ABSOLUTE INVERTEU TUDO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Ohk6sxKU1yQ",
-      "publishedAt": "2026-07-02",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
