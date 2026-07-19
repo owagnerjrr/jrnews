@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-18T10:55:19.427Z",
+  "updatedAt": "2026-07-19T11:03:41.931Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ASSISTI A ODISSÉIA - MINHA OPINIÃO SINCERA [Review Sem Spoilers]",
+      "title": "POR QUE EU TO FAZENDO LIVE DE COUNTER STRIKE",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=PEpFt3LGwCk",
-      "publishedAt": "2026-07-18",
+      "url": "https://www.youtube.com/watch?v=7SQPJscNjso",
+      "publishedAt": "2026-07-19",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ASSISTI A ODISSÉIA - MINHA OPINIÃO SINCERA [Review Sem Spoilers]",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=PEpFt3LGwCk",
+      "publishedAt": "2026-07-18",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "MEU DEUS! O FINAL DE HOMEM ARANHA 4 VAI SER HORRÍVEL!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=z9Ntek0I6XY",
       "publishedAt": "2026-07-04",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A ESFERA PERFEITA NO MEIO DO ESPAÇO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/Hm1chUKpWRk",
-      "publishedAt": "2026-07-03",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
