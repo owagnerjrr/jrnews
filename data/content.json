@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-19T11:03:41.931Z",
+  "updatedAt": "2026-07-20T12:08:11.160Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "POR QUE EU TO FAZENDO LIVE DE COUNTER STRIKE",
+      "title": "BLACK MIRROR TE ENGANOU DESDE O INÍCIO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=7SQPJscNjso",
-      "publishedAt": "2026-07-19",
+      "url": "https://www.youtube.com/shorts/dfarrIBfw6M",
+      "publishedAt": "2026-07-20",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "POR QUE EU TO FAZENDO LIVE DE COUNTER STRIKE",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=7SQPJscNjso",
+      "publishedAt": "2026-07-19",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ASSISTI A ODISSÉIA - MINHA OPINIÃO SINCERA [Review Sem Spoilers]",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=in0Bo0YRJ_A",
       "publishedAt": "2026-07-05",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "SEM DISCUSSÃO! GTA 6 JÁ É O MAIOR GAME DA HISTÓRIA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=z9Ntek0I6XY",
-      "publishedAt": "2026-07-04",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
