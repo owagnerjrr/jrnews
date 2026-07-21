@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-20T12:08:11.160Z",
+  "updatedAt": "2026-07-21T11:41:22.196Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "BLACK MIRROR TE ENGANOU DESDE O INÍCIO",
+      "title": "TRAILER: VINGADORES DOOMSDAY",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/dfarrIBfw6M",
-      "publishedAt": "2026-07-20",
+      "url": "https://www.youtube.com/watch?v=PXpixxq-sXk",
+      "publishedAt": "2026-07-21",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "BLACK MIRROR TE ENGANOU DESDE O INÍCIO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/dfarrIBfw6M",
+      "publishedAt": "2026-07-20",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "POR QUE EU TO FAZENDO LIVE DE COUNTER STRIKE",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/gEdEzCKH_74",
       "publishedAt": "2026-07-06",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "TODAS AS CASAS E LADOS DA GUERRA EXPLICADOS EM HOUSE OF THE DRAGON",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=in0Bo0YRJ_A",
-      "publishedAt": "2026-07-05",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
