@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-21T11:41:22.196Z",
+  "updatedAt": "2026-07-22T11:41:16.966Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "TRAILER: VINGADORES DOOMSDAY",
+      "title": "A QUEDA DE RHAENYRA COMEÇOU! A CASA DO DRAGÃO [análise episódio 5]",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=PXpixxq-sXk",
-      "publishedAt": "2026-07-21",
+      "url": "https://www.youtube.com/watch?v=SWOO9CxY990",
+      "publishedAt": "2026-07-22",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "TRAILER: VINGADORES DOOMSDAY",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=PXpixxq-sXk",
+      "publishedAt": "2026-07-21",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "BLACK MIRROR TE ENGANOU DESDE O INÍCIO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/ZzX58yoECeI",
       "publishedAt": "2026-07-07",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "OS ATORES DE THE BOYS SE FOSSE NOS ANOS 80",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/gEdEzCKH_74",
-      "publishedAt": "2026-07-06",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
