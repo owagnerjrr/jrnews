@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-22T11:41:16.966Z",
+  "updatedAt": "2026-07-23T11:45:00.782Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A QUEDA DE RHAENYRA COMEÇOU! A CASA DO DRAGÃO [análise episódio 5]",
+      "title": "A VOLTA DO AIZEN E ZARAKI DE BANKAI DESPERTADA! BLEACH TYBW: ANÁLISE DO TRAILER FINAL",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=SWOO9CxY990",
-      "publishedAt": "2026-07-22",
+      "url": "https://www.youtube.com/watch?v=FdbCdPV5Mxg",
+      "publishedAt": "2026-07-23",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A QUEDA DE RHAENYRA COMEÇOU! A CASA DO DRAGÃO [análise episódio 5]",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=SWOO9CxY990",
+      "publishedAt": "2026-07-22",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "TRAILER: VINGADORES DOOMSDAY",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=pTDDZJXVV70",
       "publishedAt": "2026-07-08",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O LIVRO PERDIDO QUE NINGUÉM CONSEGUE ENTENDER!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/ZzX58yoECeI",
-      "publishedAt": "2026-07-07",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
