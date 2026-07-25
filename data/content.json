@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-24T11:29:45.941Z",
+  "updatedAt": "2026-07-25T11:01:30.042Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "JOGANDO COUNTER STRIKE 2 COMO NINGUEM",
+      "title": "MARY CELESTE: O NAVIO FANTASMA É REAL!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=C-H8VgD7iKQ",
-      "publishedAt": "2026-07-24",
+      "url": "https://www.youtube.com/watch?v=up7UjjwXYK0",
+      "publishedAt": "2026-07-25",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "JOGANDO COUNTER STRIKE 2 COMO NINGUEM",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=C-H8VgD7iKQ",
+      "publishedAt": "2026-07-24",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A VOLTA DO AIZEN E ZARAKI DE BANKAI DESPERTADA! BLEACH TYBW: ANÁLISE DO TRAILER FINAL",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=iSnfG4StZt0",
       "publishedAt": "2026-07-10",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ESTREIAS DO MÊS DE JULHO NO CINEMA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Vwhl8eZGl2w",
-      "publishedAt": "2026-07-09",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
