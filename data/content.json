@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-27T12:50:01.821Z",
+  "updatedAt": "2026-07-28T11:49:48.819Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "BOMBA! WANDA É A BRUXA DA LATVÉRIA EM VINGADORES DOOMSDAY",
+      "title": "NOLAN FEZ O IMPOSSÍVEL SEM CGI - A ODISSEIA É O FILME MAIS TÉCNICO DE TODOS OS TEMPOS",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=XUP0bvW-ieU",
-      "publishedAt": "2026-07-27",
+      "url": "https://www.youtube.com/watch?v=Znz3CFvZLuk",
+      "publishedAt": "2026-07-28",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "BOMBA! WANDA É A BRUXA DA LATVÉRIA EM VINGADORES DOOMSDAY",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=XUP0bvW-ieU",
+      "publishedAt": "2026-07-27",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O DOUTOR DESTINO QUER SALVAR SUA MÃE",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=2-un5ogept4",
       "publishedAt": "2026-07-13",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ÉPICO! SPACE GODZILLA Vs MECHAGODZILLA VAI ACONTECER",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=GNDqhFuhrdw",
-      "publishedAt": "2026-07-12",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
