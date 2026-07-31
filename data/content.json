@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-30T11:44:49.678Z",
+  "updatedAt": "2026-07-31T11:51:40.247Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "BOMBA! COMPRA DA WARNER ESTÁ SUSPENSA!",
+      "title": "JOGANDO COUNTER STRIKE DE UM JEITO DIFERENTE... (MECCHA CHAMELEON)",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=hG2pYjZ9wy0",
-      "publishedAt": "2026-07-30",
+      "url": "https://www.youtube.com/watch?v=XTIKEX3A4qo",
+      "publishedAt": "2026-07-31",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "BOMBA! COMPRA DA WARNER ESTÁ SUSPENSA!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=hG2pYjZ9wy0",
+      "publishedAt": "2026-07-30",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "MEGA ANÁLISE: TRÓIA - Feat. THIAGO BRAGA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=YNtktz38TAU",
       "publishedAt": "2026-07-16",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A CASA DO DRAGÃO: O GOLPE PELO TRONO DE FERRO! [análise do episódio 04]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=8aOfcX0oojo",
-      "publishedAt": "2026-07-15",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
