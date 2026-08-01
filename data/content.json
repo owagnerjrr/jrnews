@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-31T11:51:40.247Z",
+  "updatedAt": "2026-08-01T11:10:05.915Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "JOGANDO COUNTER STRIKE DE UM JEITO DIFERENTE... (MECCHA CHAMELEON)",
+      "title": "EI NERD ESPORTS - WILD RIFT OPEN SERIES 2026.2 | Fase de Grupos",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=XTIKEX3A4qo",
-      "publishedAt": "2026-07-31",
+      "url": "https://www.youtube.com/watch?v=3Y73q9wRAhA",
+      "publishedAt": "2026-08-01",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "JOGANDO COUNTER STRIKE DE UM JEITO DIFERENTE... (MECCHA CHAMELEON)",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=XTIKEX3A4qo",
+      "publishedAt": "2026-07-31",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "BOMBA! COMPRA DA WARNER ESTÁ SUSPENSA!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=ULyVG97a-2E",
       "publishedAt": "2026-07-17",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "BOMBA! 1⁰ IMAGEM OFICIAL REVELOU O MAIOR SEGREDO DE VINGADORES DOOMSDAY",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=YNtktz38TAU",
-      "publishedAt": "2026-07-16",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
