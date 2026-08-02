@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-01T11:10:05.915Z",
+  "updatedAt": "2026-08-02T11:09:57.403Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "EI NERD ESPORTS - WILD RIFT OPEN SERIES 2026.2 | Fase de Grupos",
+      "title": "COMO O HOMEM ARANHA TERMINA NO NOVO FILME",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=3Y73q9wRAhA",
-      "publishedAt": "2026-08-01",
+      "url": "https://www.youtube.com/shorts/fQlj7CZbg4w",
+      "publishedAt": "2026-08-02",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "EI NERD ESPORTS - WILD RIFT OPEN SERIES 2026.2 | Fase de Grupos",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=3Y73q9wRAhA",
+      "publishedAt": "2026-08-01",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "JOGANDO COUNTER STRIKE DE UM JEITO DIFERENTE... (MECCHA CHAMELEON)",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=PEpFt3LGwCk",
       "publishedAt": "2026-07-18",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "MEU DEUS! O FINAL DE HOMEM ARANHA 4 VAI SER HORRÍVEL!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=ULyVG97a-2E",
-      "publishedAt": "2026-07-17",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
