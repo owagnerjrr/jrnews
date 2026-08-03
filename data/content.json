@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-02T11:09:57.403Z",
+  "updatedAt": "2026-08-03T12:48:58.620Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "COMO O HOMEM ARANHA TERMINA NO NOVO FILME",
+      "title": "DO LIXO AO 30K NO COUNTER STRIKE (SEM CHEAT)",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/fQlj7CZbg4w",
-      "publishedAt": "2026-08-02",
+      "url": "https://www.youtube.com/watch?v=SQZ1GqB-Gac",
+      "publishedAt": "2026-08-03",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "COMO O HOMEM ARANHA TERMINA NO NOVO FILME",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/fQlj7CZbg4w",
+      "publishedAt": "2026-08-02",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "EI NERD ESPORTS - WILD RIFT OPEN SERIES 2026.2 | Fase de Grupos",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=7SQPJscNjso",
       "publishedAt": "2026-07-19",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ASSISTI A ODISSÉIA - MINHA OPINIÃO SINCERA [Review Sem Spoilers]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=PEpFt3LGwCk",
-      "publishedAt": "2026-07-18",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
