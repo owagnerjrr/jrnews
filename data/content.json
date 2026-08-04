@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-03T12:48:58.620Z",
+  "updatedAt": "2026-08-04T11:55:18.011Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "DO LIXO AO 30K NO COUNTER STRIKE (SEM CHEAT)",
+      "title": "NERD vs RMD - Circuito Desafiante 2026 - 2ª Etapa | Fase de Pontos",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=SQZ1GqB-Gac",
-      "publishedAt": "2026-08-03",
+      "url": "https://www.youtube.com/watch?v=_uahPQMfaPI",
+      "publishedAt": "2026-08-04",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "DO LIXO AO 30K NO COUNTER STRIKE (SEM CHEAT)",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=SQZ1GqB-Gac",
+      "publishedAt": "2026-08-03",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "COMO O HOMEM ARANHA TERMINA NO NOVO FILME",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/dfarrIBfw6M",
       "publishedAt": "2026-07-20",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "POR QUE EU TO FAZENDO LIVE DE COUNTER STRIKE",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=7SQPJscNjso",
-      "publishedAt": "2026-07-19",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
