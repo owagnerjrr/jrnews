@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-04T11:55:18.011Z",
+  "updatedAt": "2026-08-05T11:50:37.544Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "NERD vs RMD - Circuito Desafiante 2026 - 2ª Etapa | Fase de Pontos",
+      "title": "ANÁLISE COMPLETA - HOMEM ARANHA UM NOVO DIA [com spoilers]",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=_uahPQMfaPI",
-      "publishedAt": "2026-08-04",
+      "url": "https://www.youtube.com/watch?v=qH0iTv6APzg",
+      "publishedAt": "2026-08-05",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "NERD vs RMD - Circuito Desafiante 2026 - 2ª Etapa | Fase de Pontos",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=_uahPQMfaPI",
+      "publishedAt": "2026-08-04",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "DO LIXO AO 30K NO COUNTER STRIKE (SEM CHEAT)",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=PXpixxq-sXk",
       "publishedAt": "2026-07-21",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "BLACK MIRROR TE ENGANOU DESDE O INÍCIO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/dfarrIBfw6M",
-      "publishedAt": "2026-07-20",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
