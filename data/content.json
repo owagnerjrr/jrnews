@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-06T11:56:24.732Z",
+  "updatedAt": "2026-08-07T10:41:51.749Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "VAZOU O SEGUNDO TRAILER DE VINGADORES: DOOMSDAY",
+      "title": "A MARVEL ESQUECEU QUE ESSA CENA EXISTE [pós crédito de THE MARVELS]",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=S68Mo45QiMw",
-      "publishedAt": "2026-08-06",
+      "url": "https://www.youtube.com/watch?v=RGnt66zKeRc",
+      "publishedAt": "2026-08-07",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "VAZOU O SEGUNDO TRAILER DE VINGADORES: DOOMSDAY",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=S68Mo45QiMw",
+      "publishedAt": "2026-08-06",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ANÁLISE COMPLETA - HOMEM ARANHA UM NOVO DIA [com spoilers]",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=FdbCdPV5Mxg",
       "publishedAt": "2026-07-23",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A QUEDA DE RHAENYRA COMEÇOU! A CASA DO DRAGÃO [análise episódio 5]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=SWOO9CxY990",
-      "publishedAt": "2026-07-22",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
