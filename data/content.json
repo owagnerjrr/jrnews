@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-07T10:41:51.749Z",
+  "updatedAt": "2026-08-08T10:20:32.568Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A MARVEL ESQUECEU QUE ESSA CENA EXISTE [pós crédito de THE MARVELS]",
+      "title": "HOMEM ARANHA 4 É A MAIOR ESTREIA DA HISTÓRIA DO CINEMA!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=RGnt66zKeRc",
-      "publishedAt": "2026-08-07",
+      "url": "https://www.youtube.com/watch?v=AEzAUVQMZiE",
+      "publishedAt": "2026-08-08",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A MARVEL ESQUECEU QUE ESSA CENA EXISTE [pós crédito de THE MARVELS]",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=RGnt66zKeRc",
+      "publishedAt": "2026-08-07",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "VAZOU O SEGUNDO TRAILER DE VINGADORES: DOOMSDAY",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=C-H8VgD7iKQ",
       "publishedAt": "2026-07-24",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A VOLTA DO AIZEN E ZARAKI DE BANKAI DESPERTADA! BLEACH TYBW: ANÁLISE DO TRAILER FINAL",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=FdbCdPV5Mxg",
-      "publishedAt": "2026-07-23",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
