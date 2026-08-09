@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-08T10:20:32.568Z",
+  "updatedAt": "2026-08-09T10:21:58.876Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "HOMEM ARANHA 4 É A MAIOR ESTREIA DA HISTÓRIA DO CINEMA!",
+      "title": "TENTANDO ZERAR O MINECRAFT (DE REPENTE UMA SAGA?)",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=AEzAUVQMZiE",
-      "publishedAt": "2026-08-08",
+      "url": "https://www.youtube.com/watch?v=HU7r1l_jeh4",
+      "publishedAt": "2026-08-09",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "HOMEM ARANHA 4 É A MAIOR ESTREIA DA HISTÓRIA DO CINEMA!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=AEzAUVQMZiE",
+      "publishedAt": "2026-08-08",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A MARVEL ESQUECEU QUE ESSA CENA EXISTE [pós crédito de THE MARVELS]",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=up7UjjwXYK0",
       "publishedAt": "2026-07-25",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "JOGANDO COUNTER STRIKE 2 COMO NINGUEM",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=C-H8VgD7iKQ",
-      "publishedAt": "2026-07-24",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
