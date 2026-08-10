@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-09T10:21:58.876Z",
+  "updatedAt": "2026-08-10T10:57:15.145Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "TENTANDO ZERAR O MINECRAFT (DE REPENTE UMA SAGA?)",
+      "title": "CONSTRUINDO MINHA CASA NO MINECRAFT (DE REPENTE UMA SAGA?)",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=HU7r1l_jeh4",
-      "publishedAt": "2026-08-09",
+      "url": "https://www.youtube.com/watch?v=RoktoXxQytU",
+      "publishedAt": "2026-08-10",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "TENTANDO ZERAR O MINECRAFT (DE REPENTE UMA SAGA?)",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=HU7r1l_jeh4",
+      "publishedAt": "2026-08-09",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "HOMEM ARANHA 4 É A MAIOR ESTREIA DA HISTÓRIA DO CINEMA!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/wGDgClkus5Q",
       "publishedAt": "2026-07-26",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "MARY CELESTE: O NAVIO FANTASMA É REAL!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=up7UjjwXYK0",
-      "publishedAt": "2026-07-25",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
