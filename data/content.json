@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-10T10:57:15.145Z",
+  "updatedAt": "2026-08-11T10:41:18.464Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "CONSTRUINDO MINHA CASA NO MINECRAFT (DE REPENTE UMA SAGA?)",
+      "title": "OS FILMES DO PÂNICO DENTRO DO PÂNICO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=RoktoXxQytU",
-      "publishedAt": "2026-08-10",
+      "url": "https://www.youtube.com/shorts/Obr6GiNx7fg",
+      "publishedAt": "2026-08-11",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "CONSTRUINDO MINHA CASA NO MINECRAFT (DE REPENTE UMA SAGA?)",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=RoktoXxQytU",
+      "publishedAt": "2026-08-10",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "TENTANDO ZERAR O MINECRAFT (DE REPENTE UMA SAGA?)",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=XUP0bvW-ieU",
       "publishedAt": "2026-07-27",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O DOUTOR DESTINO QUER SALVAR SUA MÃE",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/wGDgClkus5Q",
-      "publishedAt": "2026-07-26",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
