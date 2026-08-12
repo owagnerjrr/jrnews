@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-11T10:41:18.464Z",
+  "updatedAt": "2026-08-12T10:50:42.439Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "OS FILMES DO PÂNICO DENTRO DO PÂNICO",
+      "title": "CONSTRUINDO MINHA CASA NO MINECRAFT (SAGA MINECRAFT DIA 3)",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/Obr6GiNx7fg",
-      "publishedAt": "2026-08-11",
+      "url": "https://www.youtube.com/watch?v=6v0eTLY2Eww",
+      "publishedAt": "2026-08-12",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "OS FILMES DO PÂNICO DENTRO DO PÂNICO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/Obr6GiNx7fg",
+      "publishedAt": "2026-08-11",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "CONSTRUINDO MINHA CASA NO MINECRAFT (DE REPENTE UMA SAGA?)",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=Znz3CFvZLuk",
       "publishedAt": "2026-07-28",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "BOMBA! WANDA É A BRUXA DA LATVÉRIA EM VINGADORES DOOMSDAY",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=XUP0bvW-ieU",
-      "publishedAt": "2026-07-27",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
