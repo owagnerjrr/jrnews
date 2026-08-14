@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-13T10:52:32.707Z",
+  "updatedAt": "2026-08-14T10:48:36.288Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "TODOS OS NOVOS PODERES DO HOMEM ARANHA EXPLICADOS",
+      "title": "MELHORES ESTREIAS DOS STREAMINGS EM AGOSTO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=7jPd0oZ8IfU",
-      "publishedAt": "2026-08-13",
+      "url": "https://www.youtube.com/watch?v=S0A10tfs23k",
+      "publishedAt": "2026-08-14",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "TODOS OS NOVOS PODERES DO HOMEM ARANHA EXPLICADOS",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=7jPd0oZ8IfU",
+      "publishedAt": "2026-08-13",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "CONSTRUINDO MINHA CASA NO MINECRAFT (SAGA MINECRAFT DIA 3)",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=hG2pYjZ9wy0",
       "publishedAt": "2026-07-30",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "MEGA ANÁLISE: TRÓIA - Feat. THIAGO BRAGA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=mxxutZo4RBE",
-      "publishedAt": "2026-07-29",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
