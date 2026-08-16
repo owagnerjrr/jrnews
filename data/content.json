@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-15T10:12:25.924Z",
+  "updatedAt": "2026-08-16T10:12:46.071Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "NERD vs TTT | Playoffs Wild Rift Open Series",
+      "title": "CONTINUANDO A SAGA DE MINECRAFT (DIA 4)",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=BgFhF-STeco",
-      "publishedAt": "2026-08-15",
+      "url": "https://www.youtube.com/watch?v=-wYH-xfaxZI",
+      "publishedAt": "2026-08-16",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "NERD vs TTT | Playoffs Wild Rift Open Series",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=BgFhF-STeco",
+      "publishedAt": "2026-08-15",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "MELHORES ESTREIAS DOS STREAMINGS EM AGOSTO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=3Y73q9wRAhA",
       "publishedAt": "2026-08-01",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "JOGANDO COUNTER STRIKE DE UM JEITO DIFERENTE... (MECCHA CHAMELEON)",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=XTIKEX3A4qo",
-      "publishedAt": "2026-07-31",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
