@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-16T10:12:46.071Z",
+  "updatedAt": "2026-08-17T10:21:12.700Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "CONTINUANDO A SAGA DE MINECRAFT (DIA 4)",
+      "title": "TODOS OS LANÇAMENTOS DA D23 2026",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=-wYH-xfaxZI",
-      "publishedAt": "2026-08-16",
+      "url": "https://www.youtube.com/watch?v=UYdnmAxs7vo",
+      "publishedAt": "2026-08-17",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "CONTINUANDO A SAGA DE MINECRAFT (DIA 4)",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=-wYH-xfaxZI",
+      "publishedAt": "2026-08-16",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "NERD vs TTT | Playoffs Wild Rift Open Series",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/fQlj7CZbg4w",
       "publishedAt": "2026-08-02",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "EI NERD ESPORTS - WILD RIFT OPEN SERIES 2026.2 | Fase de Grupos",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=3Y73q9wRAhA",
-      "publishedAt": "2026-08-01",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
