@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-17T10:21:12.700Z",
+  "updatedAt": "2026-08-18T10:17:12.880Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "TODOS OS LANÇAMENTOS DA D23 2026",
+      "title": "NERD x PAIN | Circuito Desafiante 2026 - 2ª Etapa | Playoffs (Md3)",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=UYdnmAxs7vo",
-      "publishedAt": "2026-08-17",
+      "url": "https://www.youtube.com/watch?v=WchQVZYMsOk",
+      "publishedAt": "2026-08-18",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "TODOS OS LANÇAMENTOS DA D23 2026",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=UYdnmAxs7vo",
+      "publishedAt": "2026-08-17",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "CONTINUANDO A SAGA DE MINECRAFT (DIA 4)",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=SQZ1GqB-Gac",
       "publishedAt": "2026-08-03",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "COMO O HOMEM ARANHA TERMINA NO NOVO FILME",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/fQlj7CZbg4w",
-      "publishedAt": "2026-08-02",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
