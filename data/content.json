@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-18T10:17:12.880Z",
+  "updatedAt": "2026-08-19T10:18:02.853Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "NERD x PAIN | Circuito Desafiante 2026 - 2ª Etapa | Playoffs (Md3)",
+      "title": "JOGANDO COUNTER STRIKE COM OS PIORES JOGADORES DO BRASIL",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=WchQVZYMsOk",
-      "publishedAt": "2026-08-18",
+      "url": "https://www.youtube.com/watch?v=V_AteWZ9rok",
+      "publishedAt": "2026-08-19",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "NERD x PAIN | Circuito Desafiante 2026 - 2ª Etapa | Playoffs (Md3)",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=WchQVZYMsOk",
+      "publishedAt": "2026-08-18",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "TODOS OS LANÇAMENTOS DA D23 2026",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=_uahPQMfaPI",
       "publishedAt": "2026-08-04",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "DO LIXO AO 30K NO COUNTER STRIKE (SEM CHEAT)",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=SQZ1GqB-Gac",
-      "publishedAt": "2026-08-03",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
