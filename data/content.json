@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-19T10:18:02.853Z",
+  "updatedAt": "2026-08-20T10:19:14.042Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "JOGANDO COUNTER STRIKE COM OS PIORES JOGADORES DO BRASIL",
+      "title": "O MOTIVO DE ME CHAMAREM DE PROFESSOR DO FALLEN NO CS2",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=V_AteWZ9rok",
-      "publishedAt": "2026-08-19",
+      "url": "https://www.youtube.com/watch?v=W0hrUR8-pes",
+      "publishedAt": "2026-08-20",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "JOGANDO COUNTER STRIKE COM OS PIORES JOGADORES DO BRASIL",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=V_AteWZ9rok",
+      "publishedAt": "2026-08-19",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "NERD x PAIN | Circuito Desafiante 2026 - 2ª Etapa | Playoffs (Md3)",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=qH0iTv6APzg",
       "publishedAt": "2026-08-05",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "NERD vs RMD - Circuito Desafiante 2026 - 2ª Etapa | Fase de Pontos",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=_uahPQMfaPI",
-      "publishedAt": "2026-08-04",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
