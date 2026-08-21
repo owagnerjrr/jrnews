@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-20T10:19:14.042Z",
+  "updatedAt": "2026-08-21T10:19:20.134Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O MOTIVO DE ME CHAMAREM DE PROFESSOR DO FALLEN NO CS2",
+      "title": "A MELHOR CENA DO HOMEM DE FERRO NO TRIBUNAL",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=W0hrUR8-pes",
-      "publishedAt": "2026-08-20",
+      "url": "https://www.youtube.com/shorts/z65P9-wz_u0",
+      "publishedAt": "2026-08-21",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O MOTIVO DE ME CHAMAREM DE PROFESSOR DO FALLEN NO CS2",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=W0hrUR8-pes",
+      "publishedAt": "2026-08-20",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "JOGANDO COUNTER STRIKE COM OS PIORES JOGADORES DO BRASIL",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=S68Mo45QiMw",
       "publishedAt": "2026-08-06",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ANÁLISE COMPLETA - HOMEM ARANHA UM NOVO DIA [com spoilers]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=qH0iTv6APzg",
-      "publishedAt": "2026-08-05",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
