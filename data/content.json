@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-21T10:19:20.134Z",
+  "updatedAt": "2026-08-22T10:12:37.186Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A MELHOR CENA DO HOMEM DE FERRO NO TRIBUNAL",
+      "title": "NERD vs VR - WILD RIFT OPEN SERIES 2026.2 ( MD3 )",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/z65P9-wz_u0",
-      "publishedAt": "2026-08-21",
+      "url": "https://www.youtube.com/watch?v=kqKBkY6CvnI",
+      "publishedAt": "2026-08-22",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A MELHOR CENA DO HOMEM DE FERRO NO TRIBUNAL",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/z65P9-wz_u0",
+      "publishedAt": "2026-08-21",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O MOTIVO DE ME CHAMAREM DE PROFESSOR DO FALLEN NO CS2",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=RGnt66zKeRc",
       "publishedAt": "2026-08-07",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "VAZOU O SEGUNDO TRAILER DE VINGADORES: DOOMSDAY",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=S68Mo45QiMw",
-      "publishedAt": "2026-08-06",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
