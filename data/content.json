@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-22T10:12:37.186Z",
+  "updatedAt": "2026-08-23T10:13:01.245Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "NERD vs VR - WILD RIFT OPEN SERIES 2026.2 ( MD3 )",
+      "title": "NERD vs FHG - WILD RIFT OPEN SERIES 2026.2 ( MD3 )",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=kqKBkY6CvnI",
-      "publishedAt": "2026-08-22",
+      "url": "https://www.youtube.com/watch?v=J0QxPwmJrB4",
+      "publishedAt": "2026-08-23",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "NERD vs VR - WILD RIFT OPEN SERIES 2026.2 ( MD3 )",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=kqKBkY6CvnI",
+      "publishedAt": "2026-08-22",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A MELHOR CENA DO HOMEM DE FERRO NO TRIBUNAL",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=AEzAUVQMZiE",
       "publishedAt": "2026-08-08",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A MARVEL ESQUECEU QUE ESSA CENA EXISTE [pós crédito de THE MARVELS]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=RGnt66zKeRc",
-      "publishedAt": "2026-08-07",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
