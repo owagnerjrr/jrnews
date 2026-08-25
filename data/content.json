@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-24T10:27:09.659Z",
+  "updatedAt": "2026-08-25T10:21:01.403Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "EXPLICANDO O VILÃO DE OS INCRÍVEIS 3 - GAMMA JACK",
+      "title": "A MELHOR ENTRADA DE SUPERNATURAL ATÉ HOJE",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=t5f1wng0Jig",
-      "publishedAt": "2026-08-24",
+      "url": "https://www.youtube.com/shorts/yTC0mtHUbTw",
+      "publishedAt": "2026-08-25",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "EXPLICANDO O VILÃO DE OS INCRÍVEIS 3 - GAMMA JACK",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=t5f1wng0Jig",
+      "publishedAt": "2026-08-24",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "NERD vs FHG - WILD RIFT OPEN SERIES 2026.2 ( MD3 )",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=RoktoXxQytU",
       "publishedAt": "2026-08-10",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "TENTANDO ZERAR O MINECRAFT (DE REPENTE UMA SAGA?)",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=HU7r1l_jeh4",
-      "publishedAt": "2026-08-09",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
