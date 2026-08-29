@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-28T21:01:33.832Z",
+  "updatedAt": "2026-08-29T14:47:56.682Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A EXPECTATIVA DO PETER PRA GTA 6",
+      "title": "JAMES GUNN VAI EMBORA DA DC DESSA VEZ?",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/4I-0Ti9FK2w",
-      "publishedAt": "2026-08-28",
+      "url": "https://www.youtube.com/shorts/F7H9nj5t0gM",
+      "publishedAt": "2026-08-29",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A EXPECTATIVA DO PETER PRA GTA 6",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/4I-0Ti9FK2w",
+      "publishedAt": "2026-08-28",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "REACT AO VIVO: GTA 6 - UM OLHAR ESTENDIDO NA NETFLIX",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=S0A10tfs23k",
       "publishedAt": "2026-08-14",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "TODOS OS NOVOS PODERES DO HOMEM ARANHA EXPLICADOS",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=7jPd0oZ8IfU",
-      "publishedAt": "2026-08-13",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
