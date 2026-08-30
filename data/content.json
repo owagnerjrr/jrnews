@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-29T14:47:56.682Z",
+  "updatedAt": "2026-08-30T14:33:59.426Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "JAMES GUNN VAI EMBORA DA DC DESSA VEZ?",
+      "title": "AS MISSÕES EM GTA 6 TÃO MUITO INSANAS",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/F7H9nj5t0gM",
-      "publishedAt": "2026-08-29",
+      "url": "https://www.youtube.com/shorts/HiHkb_0_Yeg",
+      "publishedAt": "2026-08-30",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "JAMES GUNN VAI EMBORA DA DC DESSA VEZ?",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/F7H9nj5t0gM",
+      "publishedAt": "2026-08-29",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A EXPECTATIVA DO PETER PRA GTA 6",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=BgFhF-STeco",
       "publishedAt": "2026-08-15",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "MELHORES ESTREIAS DOS STREAMINGS EM AGOSTO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=S0A10tfs23k",
-      "publishedAt": "2026-08-14",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
