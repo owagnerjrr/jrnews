@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-30T14:33:59.426Z",
+  "updatedAt": "2026-08-31T17:17:42.673Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "AS MISSÕES EM GTA 6 TÃO MUITO INSANAS",
+      "title": "ESSE É O MAIOR PROBLEMA DE HOMEM ARANHA UM NOVO DIA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/HiHkb_0_Yeg",
-      "publishedAt": "2026-08-30",
+      "url": "https://www.youtube.com/watch?v=IvPJri0u0R8",
+      "publishedAt": "2026-08-31",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "AS MISSÕES EM GTA 6 TÃO MUITO INSANAS",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/HiHkb_0_Yeg",
+      "publishedAt": "2026-08-30",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "JAMES GUNN VAI EMBORA DA DC DESSA VEZ?",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=-wYH-xfaxZI",
       "publishedAt": "2026-08-16",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "NERD vs TTT | Playoffs Wild Rift Open Series",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=BgFhF-STeco",
-      "publishedAt": "2026-08-15",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
