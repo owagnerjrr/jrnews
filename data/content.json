@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-31T17:17:42.673Z",
+  "updatedAt": "2026-09-01T14:23:35.950Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ESSE É O MAIOR PROBLEMA DE HOMEM ARANHA UM NOVO DIA",
+      "title": "OS EFEITOS SONOROS DO SPÍDER NOIR SÃO BIZARROS",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=IvPJri0u0R8",
-      "publishedAt": "2026-08-31",
+      "url": "https://www.youtube.com/shorts/QTqAroEw5IU",
+      "publishedAt": "2026-09-01",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ESSE É O MAIOR PROBLEMA DE HOMEM ARANHA UM NOVO DIA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=IvPJri0u0R8",
+      "publishedAt": "2026-08-31",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "AS MISSÕES EM GTA 6 TÃO MUITO INSANAS",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=UYdnmAxs7vo",
       "publishedAt": "2026-08-17",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "CONTINUANDO A SAGA DE MINECRAFT (DIA 4)",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=-wYH-xfaxZI",
-      "publishedAt": "2026-08-16",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
