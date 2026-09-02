@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-01T14:23:35.950Z",
+  "updatedAt": "2026-09-02T13:57:09.738Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "OS EFEITOS SONOROS DO SPÍDER NOIR SÃO BIZARROS",
+      "title": "UMA DAS MELHORES CENAS DO HOMEM ARANHA ATÉ HOJE",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/QTqAroEw5IU",
-      "publishedAt": "2026-09-01",
+      "url": "https://www.youtube.com/shorts/AqzbLwYHSm4",
+      "publishedAt": "2026-09-02",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "OS EFEITOS SONOROS DO SPÍDER NOIR SÃO BIZARROS",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/QTqAroEw5IU",
+      "publishedAt": "2026-09-01",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ESSE É O MAIOR PROBLEMA DE HOMEM ARANHA UM NOVO DIA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=WchQVZYMsOk",
       "publishedAt": "2026-08-18",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "TODOS OS LANÇAMENTOS DA D23 2026",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=UYdnmAxs7vo",
-      "publishedAt": "2026-08-17",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
