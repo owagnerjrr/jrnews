@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-02T13:57:09.738Z",
+  "updatedAt": "2026-09-03T13:59:04.340Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "UMA DAS MELHORES CENAS DO HOMEM ARANHA ATÉ HOJE",
+      "title": "O NOVO HARRY POTTER ESTÁ IGUAL AO ORIGINAL!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/AqzbLwYHSm4",
-      "publishedAt": "2026-09-02",
+      "url": "https://www.youtube.com/shorts/JBSWhveDlss",
+      "publishedAt": "2026-09-03",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "UMA DAS MELHORES CENAS DO HOMEM ARANHA ATÉ HOJE",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/AqzbLwYHSm4",
+      "publishedAt": "2026-09-02",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "OS EFEITOS SONOROS DO SPÍDER NOIR SÃO BIZARROS",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=V_AteWZ9rok",
       "publishedAt": "2026-08-19",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "NERD x PAIN | Circuito Desafiante 2026 - 2ª Etapa | Playoffs (Md3)",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=WchQVZYMsOk",
-      "publishedAt": "2026-08-18",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
