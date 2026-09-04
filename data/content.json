@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-03T13:59:04.340Z",
+  "updatedAt": "2026-09-04T13:52:12.035Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O NOVO HARRY POTTER ESTÁ IGUAL AO ORIGINAL!",
+      "title": "QUEM VENCE METROMAN OU OMINIMAN??",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/JBSWhveDlss",
-      "publishedAt": "2026-09-03",
+      "url": "https://www.youtube.com/shorts/fMXX10rTr6I",
+      "publishedAt": "2026-09-04",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O NOVO HARRY POTTER ESTÁ IGUAL AO ORIGINAL!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/JBSWhveDlss",
+      "publishedAt": "2026-09-03",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "UMA DAS MELHORES CENAS DO HOMEM ARANHA ATÉ HOJE",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=W0hrUR8-pes",
       "publishedAt": "2026-08-20",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "JOGANDO COUNTER STRIKE COM OS PIORES JOGADORES DO BRASIL",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=V_AteWZ9rok",
-      "publishedAt": "2026-08-19",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
