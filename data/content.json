@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-04T13:52:12.035Z",
+  "updatedAt": "2026-09-05T13:05:47.859Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "QUEM VENCE METROMAN OU OMINIMAN??",
+      "title": "REBOOT DE HARRY POTTER E A PEDRA FILOSOFAL - ANÁLISE COMPLETA DO TRAILER",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/fMXX10rTr6I",
-      "publishedAt": "2026-09-04",
+      "url": "https://www.youtube.com/watch?v=Ycf886lLcz0",
+      "publishedAt": "2026-09-05",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "QUEM VENCE METROMAN OU OMINIMAN??",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/fMXX10rTr6I",
+      "publishedAt": "2026-09-04",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O NOVO HARRY POTTER ESTÁ IGUAL AO ORIGINAL!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/z65P9-wz_u0",
       "publishedAt": "2026-08-21",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O MOTIVO DE ME CHAMAREM DE PROFESSOR DO FALLEN NO CS2",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=W0hrUR8-pes",
-      "publishedAt": "2026-08-20",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
