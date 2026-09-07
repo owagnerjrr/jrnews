@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-06T13:17:12.867Z",
+  "updatedAt": "2026-09-07T15:23:08.280Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O THANOS CHEGOU NO UNIVERSO DE DRAGON BALL",
+      "title": "COMO FEI FEITO O HOMEM ARANHA DO ANDREW GARFIELD",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/rcYigAhI9X0",
-      "publishedAt": "2026-09-06",
+      "url": "https://www.youtube.com/shorts/oTIEwE7J39o",
+      "publishedAt": "2026-09-07",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O THANOS CHEGOU NO UNIVERSO DE DRAGON BALL",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/rcYigAhI9X0",
+      "publishedAt": "2026-09-06",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "REBOOT DE HARRY POTTER E A PEDRA FILOSOFAL - ANÁLISE COMPLETA DO TRAILER",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=J0QxPwmJrB4",
       "publishedAt": "2026-08-23",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "NERD vs VR - WILD RIFT OPEN SERIES 2026.2 ( MD3 )",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=kqKBkY6CvnI",
-      "publishedAt": "2026-08-22",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
