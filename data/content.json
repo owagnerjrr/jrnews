@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-09T14:01:18.350Z",
+  "updatedAt": "2026-09-10T13:56:21.724Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "LUTA ÉPICA DE NARUTO EM LIVE ACTION",
+      "title": "E SE O DOUTOR DESTINO LUTASSE COM O THANOS",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/7Zh5qVF2K_Q",
-      "publishedAt": "2026-09-09",
+      "url": "https://www.youtube.com/shorts/6s8X8g_U6bE",
+      "publishedAt": "2026-09-10",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "LUTA ÉPICA DE NARUTO EM LIVE ACTION",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/7Zh5qVF2K_Q",
+      "publishedAt": "2026-09-09",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A LUTA DE NARTO E SASUKE NA VIDA REAL",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=L5ekOT-MAJ0",
       "publishedAt": "2026-08-26",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A MELHOR ENTRADA DE SUPERNATURAL ATÉ HOJE",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/yTC0mtHUbTw",
-      "publishedAt": "2026-08-25",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
