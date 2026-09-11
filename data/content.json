@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-10T13:56:21.724Z",
+  "updatedAt": "2026-09-11T13:56:06.827Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "E SE O DOUTOR DESTINO LUTASSE COM O THANOS",
+      "title": "LOKI E CAPITÃO AMÉRICA SOBRE A LINHA DO TEMPO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/6s8X8g_U6bE",
-      "publishedAt": "2026-09-10",
+      "url": "https://www.youtube.com/shorts/v9Z8L1Myre0",
+      "publishedAt": "2026-09-11",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "E SE O DOUTOR DESTINO LUTASSE COM O THANOS",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/6s8X8g_U6bE",
+      "publishedAt": "2026-09-10",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "LUTA ÉPICA DE NARUTO EM LIVE ACTION",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=f4jf0IJVdeE",
       "publishedAt": "2026-08-27",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "LANTERNS - ANÁLISE COMPLETA [EPISÓDIO 2]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=L5ekOT-MAJ0",
-      "publishedAt": "2026-08-26",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
