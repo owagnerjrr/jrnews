@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-11T13:56:06.827Z",
+  "updatedAt": "2026-09-12T13:14:12.861Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "LOKI E CAPITÃO AMÉRICA SOBRE A LINHA DO TEMPO",
+      "title": "MEDIDIOR DE FORÇA EM DRAGON BALL NA VIDA REAL",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/v9Z8L1Myre0",
-      "publishedAt": "2026-09-11",
+      "url": "https://www.youtube.com/shorts/whcEA7Vyre0",
+      "publishedAt": "2026-09-12",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "LOKI E CAPITÃO AMÉRICA SOBRE A LINHA DO TEMPO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/v9Z8L1Myre0",
+      "publishedAt": "2026-09-11",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "E SE O DOUTOR DESTINO LUTASSE COM O THANOS",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/4I-0Ti9FK2w",
       "publishedAt": "2026-08-28",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "REACT AO VIVO: GTA 6 - UM OLHAR ESTENDIDO NA NETFLIX",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=f4jf0IJVdeE",
-      "publishedAt": "2026-08-27",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
