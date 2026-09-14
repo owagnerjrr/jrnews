@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-13T13:57:58.834Z",
+  "updatedAt": "2026-09-14T16:02:46.042Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O NOVO MOTOQUEIRO FANTASMA PRECISA DESSA CENA",
+      "title": "BOMBA! BEN 10 VAI VOLTAR",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/eiwBorysqhk",
-      "publishedAt": "2026-09-13",
+      "url": "https://www.youtube.com/watch?v=0hINYsTh_EQ",
+      "publishedAt": "2026-09-14",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O NOVO MOTOQUEIRO FANTASMA PRECISA DESSA CENA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/eiwBorysqhk",
+      "publishedAt": "2026-09-13",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "MEDIDIOR DE FORÇA EM DRAGON BALL NA VIDA REAL",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/HiHkb_0_Yeg",
       "publishedAt": "2026-08-30",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "JAMES GUNN VAI EMBORA DA DC DESSA VEZ?",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/F7H9nj5t0gM",
-      "publishedAt": "2026-08-29",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
