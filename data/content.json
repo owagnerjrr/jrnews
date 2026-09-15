@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-14T16:02:46.042Z",
+  "updatedAt": "2026-09-15T14:32:37.914Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "BOMBA! BEN 10 VAI VOLTAR",
+      "title": "OS PODERES DO JIRAIYA EM LIVE ACTION",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=0hINYsTh_EQ",
-      "publishedAt": "2026-09-14",
+      "url": "https://www.youtube.com/shorts/62Py0Hie0UU",
+      "publishedAt": "2026-09-15",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "BOMBA! BEN 10 VAI VOLTAR",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=0hINYsTh_EQ",
+      "publishedAt": "2026-09-14",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O NOVO MOTOQUEIRO FANTASMA PRECISA DESSA CENA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=IvPJri0u0R8",
       "publishedAt": "2026-08-31",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "AS MISSÕES EM GTA 6 TÃO MUITO INSANAS",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/HiHkb_0_Yeg",
-      "publishedAt": "2026-08-30",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
