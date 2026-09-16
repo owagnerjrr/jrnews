@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-15T14:32:37.914Z",
+  "updatedAt": "2026-09-16T14:27:11.072Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "OS PODERES DO JIRAIYA EM LIVE ACTION",
+      "title": "GORR LUTOU CONTRA LOKI E ODIN AO MESMO TEMPO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/62Py0Hie0UU",
-      "publishedAt": "2026-09-15",
+      "url": "https://www.youtube.com/shorts/5DJD-8vN72Y",
+      "publishedAt": "2026-09-16",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "OS PODERES DO JIRAIYA EM LIVE ACTION",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/62Py0Hie0UU",
+      "publishedAt": "2026-09-15",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "BOMBA! BEN 10 VAI VOLTAR",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/QTqAroEw5IU",
       "publishedAt": "2026-09-01",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ESSE É O MAIOR PROBLEMA DE HOMEM ARANHA UM NOVO DIA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=IvPJri0u0R8",
-      "publishedAt": "2026-08-31",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
