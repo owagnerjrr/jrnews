@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-16T14:27:11.072Z",
+  "updatedAt": "2026-09-17T14:31:43.322Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "GORR LUTOU CONTRA LOKI E ODIN AO MESMO TEMPO",
+      "title": "NARUTO, LUFFY E SAITAMA NO MESMO UNIVERSO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/5DJD-8vN72Y",
-      "publishedAt": "2026-09-16",
+      "url": "https://www.youtube.com/shorts/4E4LM6199GM",
+      "publishedAt": "2026-09-17",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "GORR LUTOU CONTRA LOKI E ODIN AO MESMO TEMPO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/5DJD-8vN72Y",
+      "publishedAt": "2026-09-16",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "OS PODERES DO JIRAIYA EM LIVE ACTION",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/AqzbLwYHSm4",
       "publishedAt": "2026-09-02",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "OS EFEITOS SONOROS DO SPÍDER NOIR SÃO BIZARROS",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/QTqAroEw5IU",
-      "publishedAt": "2026-09-01",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
