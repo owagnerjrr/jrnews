@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-17T14:31:43.322Z",
+  "updatedAt": "2026-09-18T13:57:57.515Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "NARUTO, LUFFY E SAITAMA NO MESMO UNIVERSO",
+      "title": "NOVO VELOZES E FURIOSOS VAI SER ASSIM?",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/4E4LM6199GM",
-      "publishedAt": "2026-09-17",
+      "url": "https://www.youtube.com/shorts/OZ3EsgTrzt4",
+      "publishedAt": "2026-09-18",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "NARUTO, LUFFY E SAITAMA NO MESMO UNIVERSO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/4E4LM6199GM",
+      "publishedAt": "2026-09-17",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "GORR LUTOU CONTRA LOKI E ODIN AO MESMO TEMPO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/JBSWhveDlss",
       "publishedAt": "2026-09-03",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "UMA DAS MELHORES CENAS DO HOMEM ARANHA ATÉ HOJE",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/AqzbLwYHSm4",
-      "publishedAt": "2026-09-02",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
