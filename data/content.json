@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-18T13:57:57.515Z",
+  "updatedAt": "2026-09-19T13:34:15.483Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "NOVO VELOZES E FURIOSOS VAI SER ASSIM?",
+      "title": "COMO VENCER UM DEUS DO DRAGON BALL",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/OZ3EsgTrzt4",
-      "publishedAt": "2026-09-18",
+      "url": "https://www.youtube.com/shorts/tG-6LIBsD1U",
+      "publishedAt": "2026-09-19",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "NOVO VELOZES E FURIOSOS VAI SER ASSIM?",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/OZ3EsgTrzt4",
+      "publishedAt": "2026-09-18",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "NARUTO, LUFFY E SAITAMA NO MESMO UNIVERSO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/fMXX10rTr6I",
       "publishedAt": "2026-09-04",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O NOVO HARRY POTTER ESTÁ IGUAL AO ORIGINAL!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/JBSWhveDlss",
-      "publishedAt": "2026-09-03",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
