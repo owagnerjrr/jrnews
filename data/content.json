@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-19T13:34:15.483Z",
+  "updatedAt": "2026-09-20T13:48:27.388Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "COMO VENCER UM DEUS DO DRAGON BALL",
+      "title": "COMO TER DINHEIRO PRA GTA 6 AINDA ESSE ANO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/tG-6LIBsD1U",
-      "publishedAt": "2026-09-19",
+      "url": "https://www.youtube.com/shorts/RH-g2f-4znM",
+      "publishedAt": "2026-09-20",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "COMO VENCER UM DEUS DO DRAGON BALL",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/tG-6LIBsD1U",
+      "publishedAt": "2026-09-19",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "NOVO VELOZES E FURIOSOS VAI SER ASSIM?",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=Ycf886lLcz0",
       "publishedAt": "2026-09-05",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "QUEM VENCE METROMAN OU OMINIMAN??",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/fMXX10rTr6I",
-      "publishedAt": "2026-09-04",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
