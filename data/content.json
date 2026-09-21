@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-20T13:48:27.388Z",
+  "updatedAt": "2026-09-21T16:04:52.618Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "COMO TER DINHEIRO PRA GTA 6 AINDA ESSE ANO",
+      "title": "ESSES TITÃS SÃO MAIS PODEROSOS QUE O GODZILLA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/RH-g2f-4znM",
-      "publishedAt": "2026-09-20",
+      "url": "https://www.youtube.com/watch?v=VfkR4ThFEqc",
+      "publishedAt": "2026-09-21",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "COMO TER DINHEIRO PRA GTA 6 AINDA ESSE ANO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/RH-g2f-4znM",
+      "publishedAt": "2026-09-20",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "COMO VENCER UM DEUS DO DRAGON BALL",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/rcYigAhI9X0",
       "publishedAt": "2026-09-06",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "REBOOT DE HARRY POTTER E A PEDRA FILOSOFAL - ANÁLISE COMPLETA DO TRAILER",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Ycf886lLcz0",
-      "publishedAt": "2026-09-05",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
