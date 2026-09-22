@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-21T16:04:52.618Z",
+  "updatedAt": "2026-09-22T14:14:55.944Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ESSES TITÃS SÃO MAIS PODEROSOS QUE O GODZILLA",
+      "title": "E SE DRAGON BALL FOSSE ASSIM? INSANO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=VfkR4ThFEqc",
-      "publishedAt": "2026-09-21",
+      "url": "https://www.youtube.com/shorts/8fknRahsLKU",
+      "publishedAt": "2026-09-22",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ESSES TITÃS SÃO MAIS PODEROSOS QUE O GODZILLA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=VfkR4ThFEqc",
+      "publishedAt": "2026-09-21",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "COMO TER DINHEIRO PRA GTA 6 AINDA ESSE ANO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/oTIEwE7J39o",
       "publishedAt": "2026-09-07",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O THANOS CHEGOU NO UNIVERSO DE DRAGON BALL",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/rcYigAhI9X0",
-      "publishedAt": "2026-09-06",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
