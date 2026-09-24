@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-23T14:31:40.788Z",
+  "updatedAt": "2026-09-24T14:30:39.781Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O DRAMA DO KAKASHI E DO OBITO EM LIVE ACTION",
+      "title": "COMO A DISNEY MOSTROU LONDRES DURANTE TANTOS ANOS",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/wBSHYZ30Ack",
-      "publishedAt": "2026-09-23",
+      "url": "https://www.youtube.com/shorts/gxBd5_BeBrs",
+      "publishedAt": "2026-09-24",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O DRAMA DO KAKASHI E DO OBITO EM LIVE ACTION",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/wBSHYZ30Ack",
+      "publishedAt": "2026-09-23",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "E SE DRAGON BALL FOSSE ASSIM? INSANO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/7Zh5qVF2K_Q",
       "publishedAt": "2026-09-09",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A LUTA DE NARTO E SASUKE NA VIDA REAL",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/issptrkLkEQ",
-      "publishedAt": "2026-09-08",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
