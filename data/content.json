@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T14:30:39.781Z",
+  "updatedAt": "2026-09-25T14:51:09.847Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "COMO A DISNEY MOSTROU LONDRES DURANTE TANTOS ANOS",
+      "title": "WHIS E BEERUS LUTANDO EM LIVE ACTION",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/gxBd5_BeBrs",
-      "publishedAt": "2026-09-24",
+      "url": "https://www.youtube.com/shorts/zUqP07VymFE",
+      "publishedAt": "2026-09-25",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "COMO A DISNEY MOSTROU LONDRES DURANTE TANTOS ANOS",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/gxBd5_BeBrs",
+      "publishedAt": "2026-09-24",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O DRAMA DO KAKASHI E DO OBITO EM LIVE ACTION",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/6s8X8g_U6bE",
       "publishedAt": "2026-09-10",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "LUTA ÉPICA DE NARUTO EM LIVE ACTION",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/7Zh5qVF2K_Q",
-      "publishedAt": "2026-09-09",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
