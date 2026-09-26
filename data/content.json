@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T14:51:09.847Z",
+  "updatedAt": "2026-09-26T13:57:00.561Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "WHIS E BEERUS LUTANDO EM LIVE ACTION",
+      "title": "QUEREM PROIBIR OS FÃS DE CRITICAR!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/zUqP07VymFE",
-      "publishedAt": "2026-09-25",
+      "url": "https://www.youtube.com/shorts/EZ0RqGZOBCY",
+      "publishedAt": "2026-09-26",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "WHIS E BEERUS LUTANDO EM LIVE ACTION",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/zUqP07VymFE",
+      "publishedAt": "2026-09-25",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "COMO A DISNEY MOSTROU LONDRES DURANTE TANTOS ANOS",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/v9Z8L1Myre0",
       "publishedAt": "2026-09-11",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "E SE O DOUTOR DESTINO LUTASSE COM O THANOS",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/6s8X8g_U6bE",
-      "publishedAt": "2026-09-10",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
