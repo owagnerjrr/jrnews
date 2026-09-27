@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-26T13:57:00.561Z",
+  "updatedAt": "2026-09-27T14:54:06.973Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "QUEREM PROIBIR OS FÃS DE CRITICAR!",
+      "title": "UM DISCURSO DO PANTERA NEGRA NA VIDA REAL",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/EZ0RqGZOBCY",
-      "publishedAt": "2026-09-26",
+      "url": "https://www.youtube.com/shorts/w1SkUlXKZSo",
+      "publishedAt": "2026-09-27",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "QUEREM PROIBIR OS FÃS DE CRITICAR!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/EZ0RqGZOBCY",
+      "publishedAt": "2026-09-26",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "WHIS E BEERUS LUTANDO EM LIVE ACTION",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/whcEA7Vyre0",
       "publishedAt": "2026-09-12",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "LOKI E CAPITÃO AMÉRICA SOBRE A LINHA DO TEMPO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/v9Z8L1Myre0",
-      "publishedAt": "2026-09-11",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
