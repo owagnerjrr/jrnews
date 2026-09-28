@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-27T14:54:06.973Z",
+  "updatedAt": "2026-09-28T17:51:58.077Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "UM DISCURSO DO PANTERA NEGRA NA VIDA REAL",
+      "title": "MAHERSHALA vs KEVIN FEIGE - A TRETA QUE DESTRUIU O FILME DO BLADE",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/w1SkUlXKZSo",
-      "publishedAt": "2026-09-27",
+      "url": "https://www.youtube.com/watch?v=xUChRrPGKyE",
+      "publishedAt": "2026-09-28",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "UM DISCURSO DO PANTERA NEGRA NA VIDA REAL",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/w1SkUlXKZSo",
+      "publishedAt": "2026-09-27",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "QUEREM PROIBIR OS FÃS DE CRITICAR!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/eiwBorysqhk",
       "publishedAt": "2026-09-13",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "MEDIDIOR DE FORÇA EM DRAGON BALL NA VIDA REAL",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/whcEA7Vyre0",
-      "publishedAt": "2026-09-12",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
