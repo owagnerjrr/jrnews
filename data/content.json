@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-28T17:51:58.077Z",
+  "updatedAt": "2026-09-29T16:13:51.547Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "MAHERSHALA vs KEVIN FEIGE - A TRETA QUE DESTRUIU O FILME DO BLADE",
+      "title": "HAL JORDAN SU1C1D@ E JOHN STEWART LANTERNA AMARELO [episódio 7 - ANÁLISE LANTERNS]",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=xUChRrPGKyE",
-      "publishedAt": "2026-09-28",
+      "url": "https://www.youtube.com/watch?v=fQTcaTxDlic",
+      "publishedAt": "2026-09-29",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "MAHERSHALA vs KEVIN FEIGE - A TRETA QUE DESTRUIU O FILME DO BLADE",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=xUChRrPGKyE",
+      "publishedAt": "2026-09-28",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "UM DISCURSO DO PANTERA NEGRA NA VIDA REAL",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=0hINYsTh_EQ",
       "publishedAt": "2026-09-14",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O NOVO MOTOQUEIRO FANTASMA PRECISA DESSA CENA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/eiwBorysqhk",
-      "publishedAt": "2026-09-13",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
