@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-29T16:13:51.547Z",
+  "updatedAt": "2026-09-30T16:09:02.804Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "HAL JORDAN SU1C1D@ E JOHN STEWART LANTERNA AMARELO [episódio 7 - ANÁLISE LANTERNS]",
+      "title": "BRAD PITT ACABA DE FAZER O MELHOR FILME DA SUA CARREIRA!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=fQTcaTxDlic",
-      "publishedAt": "2026-09-29",
+      "url": "https://www.youtube.com/watch?v=sly03qMgyMk",
+      "publishedAt": "2026-09-30",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "HAL JORDAN SU1C1D@ E JOHN STEWART LANTERNA AMARELO [episódio 7 - ANÁLISE LANTERNS]",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=fQTcaTxDlic",
+      "publishedAt": "2026-09-29",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "MAHERSHALA vs KEVIN FEIGE - A TRETA QUE DESTRUIU O FILME DO BLADE",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/62Py0Hie0UU",
       "publishedAt": "2026-09-15",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "BOMBA! BEN 10 VAI VOLTAR",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=0hINYsTh_EQ",
-      "publishedAt": "2026-09-14",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
