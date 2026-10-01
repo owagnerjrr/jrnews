@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T16:09:02.804Z",
+  "updatedAt": "2026-10-01T16:46:46.133Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "BRAD PITT ACABA DE FAZER O MELHOR FILME DA SUA CARREIRA!",
+      "title": "SAITAMA TRANSFORMOU KING EM HERÓI!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=sly03qMgyMk",
-      "publishedAt": "2026-09-30",
+      "url": "https://www.youtube.com/watch?v=HFD5ho8GRmM",
+      "publishedAt": "2026-10-01",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "BRAD PITT ACABA DE FAZER O MELHOR FILME DA SUA CARREIRA!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=sly03qMgyMk",
+      "publishedAt": "2026-09-30",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "HAL JORDAN SU1C1D@ E JOHN STEWART LANTERNA AMARELO [episódio 7 - ANÁLISE LANTERNS]",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/5DJD-8vN72Y",
       "publishedAt": "2026-09-16",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "OS PODERES DO JIRAIYA EM LIVE ACTION",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/62Py0Hie0UU",
-      "publishedAt": "2026-09-15",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
