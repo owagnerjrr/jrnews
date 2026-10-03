@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T16:00:50.037Z",
+  "updatedAt": "2026-10-03T14:27:41.543Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ASSISTI CORAÇÃO SELVAGEM - MINHA OPINIÃO SINCERA",
+      "title": "A DIFICULDADE DE SUPERAR UM ANIME BOM @MathMartin",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=zdGdmD8UtQo",
-      "publishedAt": "2026-10-02",
+      "url": "https://www.youtube.com/shorts/GP8CoPr6ZvE",
+      "publishedAt": "2026-10-03",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ASSISTI CORAÇÃO SELVAGEM - MINHA OPINIÃO SINCERA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=zdGdmD8UtQo",
+      "publishedAt": "2026-10-02",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "SAITAMA TRANSFORMOU KING EM HERÓI!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/OZ3EsgTrzt4",
       "publishedAt": "2026-09-18",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "NARUTO, LUFFY E SAITAMA NO MESMO UNIVERSO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/4E4LM6199GM",
-      "publishedAt": "2026-09-17",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
