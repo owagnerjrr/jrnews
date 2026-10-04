@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-03T14:27:41.543Z",
+  "updatedAt": "2026-10-04T15:01:49.458Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A DIFICULDADE DE SUPERAR UM ANIME BOM @MathMartin",
+      "title": "PRECISOU DE THOR E LOKI PRA BATALHAR COM O GORR",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/GP8CoPr6ZvE",
-      "publishedAt": "2026-10-03",
+      "url": "https://www.youtube.com/shorts/w0gSCZA_NgY",
+      "publishedAt": "2026-10-04",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A DIFICULDADE DE SUPERAR UM ANIME BOM @MathMartin",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/GP8CoPr6ZvE",
+      "publishedAt": "2026-10-03",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ASSISTI CORAÇÃO SELVAGEM - MINHA OPINIÃO SINCERA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/tG-6LIBsD1U",
       "publishedAt": "2026-09-19",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "NOVO VELOZES E FURIOSOS VAI SER ASSIM?",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/OZ3EsgTrzt4",
-      "publishedAt": "2026-09-18",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
