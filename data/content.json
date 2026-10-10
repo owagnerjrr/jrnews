@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T16:41:58.570Z",
+  "updatedAt": "2026-10-10T15:37:42.592Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "MEGA ANÁLISE: TRÓIA - Feat. THIAGO BRAGA",
+      "title": "TODOS OS CLÃS DE NARUTO EXPLICADOS",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=CUqlCgrkTmM",
-      "publishedAt": "2026-10-09",
+      "url": "https://www.youtube.com/watch?v=6cNdqUpMqa4",
+      "publishedAt": "2026-10-10",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "MEGA ANÁLISE: TRÓIA - Feat. THIAGO BRAGA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=CUqlCgrkTmM",
+      "publishedAt": "2026-10-09",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "WILLY WONKA É O DUQUE DE ARRAKIS!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/zUqP07VymFE",
       "publishedAt": "2026-09-25",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "COMO A DISNEY MOSTROU LONDRES DURANTE TANTOS ANOS",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/gxBd5_BeBrs",
-      "publishedAt": "2026-09-24",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
