@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-10T15:37:42.592Z",
+  "updatedAt": "2026-10-11T16:03:04.849Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "TODOS OS CLÃS DE NARUTO EXPLICADOS",
+      "title": "O LEGO DRAGON BALL É TOTALMENTE OFICIAL!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=6cNdqUpMqa4",
-      "publishedAt": "2026-10-10",
+      "url": "https://www.youtube.com/shorts/pBx9lTA_Ieo",
+      "publishedAt": "2026-10-11",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "TODOS OS CLÃS DE NARUTO EXPLICADOS",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=6cNdqUpMqa4",
+      "publishedAt": "2026-10-10",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "MEGA ANÁLISE: TRÓIA - Feat. THIAGO BRAGA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/EZ0RqGZOBCY",
       "publishedAt": "2026-09-26",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "WHIS E BEERUS LUTANDO EM LIVE ACTION",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/zUqP07VymFE",
-      "publishedAt": "2026-09-25",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
