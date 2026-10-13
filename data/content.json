@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-12T19:29:55.156Z",
+  "updatedAt": "2026-10-13T17:14:03.776Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ONE PUNCH MAN VOLTOU PRA PASSAR MAIS VERGONHA",
+      "title": "A QUEDA DO BRAD PITT: POR QUE OS FILHOS ESTÃO APAGANDO O NOME DELE?",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=oP819_QuxqQ",
-      "publishedAt": "2026-10-12",
+      "url": "https://www.youtube.com/watch?v=1N-IyNmnqLM",
+      "publishedAt": "2026-10-13",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ONE PUNCH MAN VOLTOU PRA PASSAR MAIS VERGONHA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=oP819_QuxqQ",
+      "publishedAt": "2026-10-12",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O LEGO DRAGON BALL É TOTALMENTE OFICIAL!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=xUChRrPGKyE",
       "publishedAt": "2026-09-28",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "UM DISCURSO DO PANTERA NEGRA NA VIDA REAL",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/w1SkUlXKZSo",
-      "publishedAt": "2026-09-27",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
