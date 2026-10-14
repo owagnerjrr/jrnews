@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T17:14:03.776Z",
+  "updatedAt": "2026-10-14T14:46:18.903Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A QUEDA DO BRAD PITT: POR QUE OS FILHOS ESTÃO APAGANDO O NOME DELE?",
+      "title": "O PETER EI NERD VIROU O LANTERNA VERDE",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=1N-IyNmnqLM",
-      "publishedAt": "2026-10-13",
+      "url": "https://www.youtube.com/shorts/YecpVWKaiu0",
+      "publishedAt": "2026-10-14",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A QUEDA DO BRAD PITT: POR QUE OS FILHOS ESTÃO APAGANDO O NOME DELE?",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=1N-IyNmnqLM",
+      "publishedAt": "2026-10-13",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ONE PUNCH MAN VOLTOU PRA PASSAR MAIS VERGONHA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=fQTcaTxDlic",
       "publishedAt": "2026-09-29",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "MAHERSHALA vs KEVIN FEIGE - A TRETA QUE DESTRUIU O FILME DO BLADE",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=xUChRrPGKyE",
-      "publishedAt": "2026-09-28",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
