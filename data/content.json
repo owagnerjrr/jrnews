@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-14T14:46:18.903Z",
+  "updatedAt": "2026-10-15T14:32:06.222Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O PETER EI NERD VIROU O LANTERNA VERDE",
+      "title": "OS ANIMAIS TEM SENTIMENTO? PETER REAGE",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/YecpVWKaiu0",
-      "publishedAt": "2026-10-14",
+      "url": "https://www.youtube.com/shorts/2GrlLec_z_U",
+      "publishedAt": "2026-10-15",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O PETER EI NERD VIROU O LANTERNA VERDE",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/YecpVWKaiu0",
+      "publishedAt": "2026-10-14",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A QUEDA DO BRAD PITT: POR QUE OS FILHOS ESTÃO APAGANDO O NOME DELE?",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=sly03qMgyMk",
       "publishedAt": "2026-09-30",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "HAL JORDAN SU1C1D@ E JOHN STEWART LANTERNA AMARELO [episódio 7 - ANÁLISE LANTERNS]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=fQTcaTxDlic",
-      "publishedAt": "2026-09-29",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
