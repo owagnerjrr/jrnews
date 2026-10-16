@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T14:32:06.222Z",
+  "updatedAt": "2026-10-16T14:23:44.516Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "OS ANIMAIS TEM SENTIMENTO? PETER REAGE",
+      "title": "O NOVO DRAGON BALL SALVOU O ANIME DE FATO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/2GrlLec_z_U",
-      "publishedAt": "2026-10-15",
+      "url": "https://www.youtube.com/shorts/cxx-zqvOtko",
+      "publishedAt": "2026-10-16",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "OS ANIMAIS TEM SENTIMENTO? PETER REAGE",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/2GrlLec_z_U",
+      "publishedAt": "2026-10-15",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O PETER EI NERD VIROU O LANTERNA VERDE",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=HFD5ho8GRmM",
       "publishedAt": "2026-10-01",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "BRAD PITT ACABA DE FAZER O MELHOR FILME DA SUA CARREIRA!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=sly03qMgyMk",
-      "publishedAt": "2026-09-30",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
