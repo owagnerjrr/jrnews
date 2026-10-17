@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T14:23:44.516Z",
+  "updatedAt": "2026-10-17T13:20:48.818Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O NOVO DRAGON BALL SALVOU O ANIME DE FATO",
+      "title": "O NOVO TESLA CONSEGUE VOAR",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/cxx-zqvOtko",
-      "publishedAt": "2026-10-16",
+      "url": "https://www.youtube.com/shorts/cspjU0lwSHM",
+      "publishedAt": "2026-10-17",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O NOVO DRAGON BALL SALVOU O ANIME DE FATO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/cxx-zqvOtko",
+      "publishedAt": "2026-10-16",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "OS ANIMAIS TEM SENTIMENTO? PETER REAGE",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=zdGdmD8UtQo",
       "publishedAt": "2026-10-02",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "SAITAMA TRANSFORMOU KING EM HERÓI!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=HFD5ho8GRmM",
-      "publishedAt": "2026-10-01",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
