@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-17T13:20:48.818Z",
+  "updatedAt": "2026-10-18T13:39:41.186Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O NOVO TESLA CONSEGUE VOAR",
+      "title": "O PROTETOR É TÃO BOM QUANTO JOHN WICK??",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/cspjU0lwSHM",
-      "publishedAt": "2026-10-17",
+      "url": "https://www.youtube.com/shorts/RCXO8ksIoZE",
+      "publishedAt": "2026-10-18",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O NOVO TESLA CONSEGUE VOAR",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/cspjU0lwSHM",
+      "publishedAt": "2026-10-17",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O NOVO DRAGON BALL SALVOU O ANIME DE FATO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/GP8CoPr6ZvE",
       "publishedAt": "2026-10-03",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ASSISTI CORAÇÃO SELVAGEM - MINHA OPINIÃO SINCERA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=zdGdmD8UtQo",
-      "publishedAt": "2026-10-02",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
