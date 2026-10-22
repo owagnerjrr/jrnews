@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T14:45:05.266Z",
+  "updatedAt": "2026-10-22T14:45:14.945Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O MR BEAST FOI INSANO NO SHARKTANK",
+      "title": "VALE A PENA COMPRAR O NOVO IPHONE? PETER OPINA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/NMr1DVxo6zA",
-      "publishedAt": "2026-10-21",
+      "url": "https://www.youtube.com/shorts/rAyPAoGTpPA",
+      "publishedAt": "2026-10-22",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O MR BEAST FOI INSANO NO SHARKTANK",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/NMr1DVxo6zA",
+      "publishedAt": "2026-10-21",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "IMAGINA JOGAR YUGIOH ASSIM!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=RsQa0CFte4Q",
       "publishedAt": "2026-10-07",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "AS TRANSFORMAÇÕES DE ATTACK ON TITAN EM LIVE ACTION",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/TxEcXWv2aCA",
-      "publishedAt": "2026-10-06",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
