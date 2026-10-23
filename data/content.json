@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-22T14:45:14.945Z",
+  "updatedAt": "2026-10-23T14:31:36.170Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "VALE A PENA COMPRAR O NOVO IPHONE? PETER OPINA",
+      "title": "A APPLE QUER TOMAR CONTA DA SUA CASA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/rAyPAoGTpPA",
-      "publishedAt": "2026-10-22",
+      "url": "https://www.youtube.com/shorts/s_G21MH81pM",
+      "publishedAt": "2026-10-23",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "VALE A PENA COMPRAR O NOVO IPHONE? PETER OPINA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/rAyPAoGTpPA",
+      "publishedAt": "2026-10-22",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O MR BEAST FOI INSANO NO SHARKTANK",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/J6OcY9qeBco",
       "publishedAt": "2026-10-08",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A MARVEL NÃO PARA DE FAZER O PETER PARKER SOFRER [HOMEM ARANHA 1000]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=RsQa0CFte4Q",
-      "publishedAt": "2026-10-07",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
