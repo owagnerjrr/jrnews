@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T14:31:36.170Z",
+  "updatedAt": "2026-10-24T13:42:58.167Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A APPLE QUER TOMAR CONTA DA SUA CASA",
+      "title": "O PETER RAÍZ ERA POUCAS IDEIAS 😂",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/s_G21MH81pM",
-      "publishedAt": "2026-10-23",
+      "url": "https://www.youtube.com/shorts/c8Xyote4o1Y",
+      "publishedAt": "2026-10-24",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A APPLE QUER TOMAR CONTA DA SUA CASA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/s_G21MH81pM",
+      "publishedAt": "2026-10-23",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "VALE A PENA COMPRAR O NOVO IPHONE? PETER OPINA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=CUqlCgrkTmM",
       "publishedAt": "2026-10-09",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "WILLY WONKA É O DUQUE DE ARRAKIS!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/J6OcY9qeBco",
-      "publishedAt": "2026-10-08",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
