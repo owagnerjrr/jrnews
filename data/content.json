@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-25T14:00:00.872Z",
+  "updatedAt": "2026-10-26T16:21:52.294Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "COMO É JANTAR COM O PETER JORDAN DO EI NERD",
+      "title": "NARUTO vs SASUKE (Round 3) - PORQUE ELES VÃO LUTAR NO NOVO MANGÁ DO KISHIMOTO?",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/CaCcTKi8fig",
-      "publishedAt": "2026-10-25",
+      "url": "https://www.youtube.com/watch?v=dKLP_Yhdt30",
+      "publishedAt": "2026-10-26",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "COMO É JANTAR COM O PETER JORDAN DO EI NERD",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/CaCcTKi8fig",
+      "publishedAt": "2026-10-25",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "O PETER RAÍZ ERA POUCAS IDEIAS 😂",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/pBx9lTA_Ieo",
       "publishedAt": "2026-10-11",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "TODOS OS CLÃS DE NARUTO EXPLICADOS",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=6cNdqUpMqa4",
-      "publishedAt": "2026-10-10",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
