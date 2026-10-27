@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-26T16:21:52.294Z",
+  "updatedAt": "2026-10-27T15:36:11.275Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "NARUTO vs SASUKE (Round 3) - PORQUE ELES VÃO LUTAR NO NOVO MANGÁ DO KISHIMOTO?",
+      "title": "PETER CONHECEU O PEQUENO EI NERD E FALOU SOBRE O FUTURO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=dKLP_Yhdt30",
-      "publishedAt": "2026-10-26",
+      "url": "https://www.youtube.com/shorts/_3M4qtW_Ze4",
+      "publishedAt": "2026-10-27",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "NARUTO vs SASUKE (Round 3) - PORQUE ELES VÃO LUTAR NO NOVO MANGÁ DO KISHIMOTO?",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=dKLP_Yhdt30",
+      "publishedAt": "2026-10-26",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "COMO É JANTAR COM O PETER JORDAN DO EI NERD",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=oP819_QuxqQ",
       "publishedAt": "2026-10-12",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O LEGO DRAGON BALL É TOTALMENTE OFICIAL!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/pBx9lTA_Ieo",
-      "publishedAt": "2026-10-11",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
