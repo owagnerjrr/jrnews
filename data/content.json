@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T15:36:11.275Z",
+  "updatedAt": "2026-10-28T16:20:48.555Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "PETER CONHECEU O PEQUENO EI NERD E FALOU SOBRE O FUTURO",
+      "title": "ESSE LIVE ACTION DE BEN 10 SERIA INCRÍVEL",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/_3M4qtW_Ze4",
-      "publishedAt": "2026-10-27",
+      "url": "https://www.youtube.com/shorts/TUEkFy5q3lo",
+      "publishedAt": "2026-10-28",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "PETER CONHECEU O PEQUENO EI NERD E FALOU SOBRE O FUTURO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/_3M4qtW_Ze4",
+      "publishedAt": "2026-10-27",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "NARUTO vs SASUKE (Round 3) - PORQUE ELES VÃO LUTAR NO NOVO MANGÁ DO KISHIMOTO?",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=1N-IyNmnqLM",
       "publishedAt": "2026-10-13",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ONE PUNCH MAN VOLTOU PRA PASSAR MAIS VERGONHA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=oP819_QuxqQ",
-      "publishedAt": "2026-10-12",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
