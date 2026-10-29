@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-28T16:20:48.555Z",
+  "updatedAt": "2026-10-29T16:30:10.849Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ESSE LIVE ACTION DE BEN 10 SERIA INCRÍVEL",
+      "title": "RIRAM DO CARRO VOADOR DO ELON MUSK",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/TUEkFy5q3lo",
-      "publishedAt": "2026-10-28",
+      "url": "https://www.youtube.com/shorts/Ti-DrnM0T14",
+      "publishedAt": "2026-10-29",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ESSE LIVE ACTION DE BEN 10 SERIA INCRÍVEL",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/TUEkFy5q3lo",
+      "publishedAt": "2026-10-28",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "PETER CONHECEU O PEQUENO EI NERD E FALOU SOBRE O FUTURO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/YecpVWKaiu0",
       "publishedAt": "2026-10-14",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A QUEDA DO BRAD PITT: POR QUE OS FILHOS ESTÃO APAGANDO O NOME DELE?",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=1N-IyNmnqLM",
-      "publishedAt": "2026-10-13",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
