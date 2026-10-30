@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-29T16:30:10.849Z",
+  "updatedAt": "2026-10-30T16:21:48.178Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "RIRAM DO CARRO VOADOR DO ELON MUSK",
+      "title": "COMO DBS: BEERUS SALVOU O VEGETA DA HUMILHAÇÃO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/Ti-DrnM0T14",
-      "publishedAt": "2026-10-29",
+      "url": "https://www.youtube.com/watch?v=yidbpwaslTM",
+      "publishedAt": "2026-10-30",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "RIRAM DO CARRO VOADOR DO ELON MUSK",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/Ti-DrnM0T14",
+      "publishedAt": "2026-10-29",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ESSE LIVE ACTION DE BEN 10 SERIA INCRÍVEL",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/2GrlLec_z_U",
       "publishedAt": "2026-10-15",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O PETER EI NERD VIROU O LANTERNA VERDE",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/YecpVWKaiu0",
-      "publishedAt": "2026-10-14",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
