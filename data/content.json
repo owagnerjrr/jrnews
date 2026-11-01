@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-31T15:32:00.907Z",
+  "updatedAt": "2026-11-01T16:30:04.930Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "AGORA VOCÊ PODE CONTROLAR UM ROBÔ PELO CELULAR",
+      "title": "ELON MUSK LANÇOU \"A ODISSEIA\" FEITA POR IA PRA RIVALIZAR COM NOLAN [o resultado é bizzaro]",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/qTAfNsgarTU",
-      "publishedAt": "2026-10-31",
+      "url": "https://www.youtube.com/watch?v=V6tcO46_GzM",
+      "publishedAt": "2026-11-01",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "AGORA VOCÊ PODE CONTROLAR UM ROBÔ PELO CELULAR",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/qTAfNsgarTU",
+      "publishedAt": "2026-10-31",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "COMO DBS: BEERUS SALVOU O VEGETA DA HUMILHAÇÃO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/cspjU0lwSHM",
       "publishedAt": "2026-10-17",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O NOVO DRAGON BALL SALVOU O ANIME DE FATO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/cxx-zqvOtko",
-      "publishedAt": "2026-10-16",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
