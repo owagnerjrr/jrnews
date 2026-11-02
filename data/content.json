@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-01T16:30:04.930Z",
+  "updatedAt": "2026-11-02T19:52:51.865Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ELON MUSK LANÇOU \"A ODISSEIA\" FEITA POR IA PRA RIVALIZAR COM NOLAN [o resultado é bizzaro]",
+      "title": "UM ENCONTRO COM PETER JORDAN É TIPO ASSIM",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=V6tcO46_GzM",
-      "publishedAt": "2026-11-01",
+      "url": "https://www.youtube.com/shorts/DYc0rw6hXYc",
+      "publishedAt": "2026-11-02",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ELON MUSK LANÇOU \"A ODISSEIA\" FEITA POR IA PRA RIVALIZAR COM NOLAN [o resultado é bizzaro]",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=V6tcO46_GzM",
+      "publishedAt": "2026-11-01",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "AGORA VOCÊ PODE CONTROLAR UM ROBÔ PELO CELULAR",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/RCXO8ksIoZE",
       "publishedAt": "2026-10-18",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O NOVO TESLA CONSEGUE VOAR",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/cspjU0lwSHM",
-      "publishedAt": "2026-10-17",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
