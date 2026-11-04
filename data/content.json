@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-03T17:25:27.286Z",
+  "updatedAt": "2026-11-04T17:38:39.269Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "O DEUS SAIYAJIN APARECEU E CALOU OS HATERS - Análise DBS: Beerus EP. 4",
+      "title": "BEN AFFLECK REVELA OS BASTIDORES POR TRÁS DA SAÍDA DO ZACK SNYDER",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Vnr1mNPCChc",
-      "publishedAt": "2026-11-03",
+      "url": "https://www.youtube.com/watch?v=QUcUalX1OYY",
+      "publishedAt": "2026-11-04",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "O DEUS SAIYAJIN APARECEU E CALOU OS HATERS - Análise DBS: Beerus EP. 4",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=Vnr1mNPCChc",
+      "publishedAt": "2026-11-03",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "UM ENCONTRO COM PETER JORDAN É TIPO ASSIM",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/szgvujhqhCc",
       "publishedAt": "2026-10-20",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "BACKROOMS: COISAS QUE EU NÃO FARIA",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=LGTNEUvnUPU",
-      "publishedAt": "2026-10-19",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
