@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-05T17:45:00.289Z",
+  "updatedAt": "2026-11-06T17:00:43.100Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A TOEI FINALMENTE CORRIGIU O MAIOR ERRO DO BILLS EM DRAGON BALL SUPER?",
+      "title": "BOMBA! CONTINUAÇÃO DE GUERRA MUNDIAL Z COM BRAD PITT FINALMENTE VAI ACONTECER!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Fbh8Zp8nI_Q",
-      "publishedAt": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=vFRRYAxmtuk",
+      "publishedAt": "2026-11-06",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A TOEI FINALMENTE CORRIGIU O MAIOR ERRO DO BILLS EM DRAGON BALL SUPER?",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=Fbh8Zp8nI_Q",
+      "publishedAt": "2026-11-05",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "BEN AFFLECK REVELA OS BASTIDORES POR TRÁS DA SAÍDA DO ZACK SNYDER",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/rAyPAoGTpPA",
       "publishedAt": "2026-10-22",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O MR BEAST FOI INSANO NO SHARKTANK",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/NMr1DVxo6zA",
-      "publishedAt": "2026-10-21",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
