@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-10T17:22:07.489Z",
+  "updatedAt": "2026-11-11T17:32:51.324Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "JAMES GUNN DEMITIDO KKKKKKKKKK [O dia mais feliz da minha vida]",
+      "title": "ET DE VARGINHA: A VERDADE 30 ANOS DEPOIS!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=0xc_F7912Fk",
-      "publishedAt": "2026-11-10",
+      "url": "https://www.youtube.com/watch?v=-AUcslKbpc4",
+      "publishedAt": "2026-11-11",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "JAMES GUNN DEMITIDO KKKKKKKKKK [O dia mais feliz da minha vida]",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=0xc_F7912Fk",
+      "publishedAt": "2026-11-10",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "GTA 6: A CAIXA DO JOGO VAZOU O MODO ONLINE!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/_3M4qtW_Ze4",
       "publishedAt": "2026-10-27",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "NARUTO vs SASUKE (Round 3) - PORQUE ELES VÃO LUTAR NO NOVO MANGÁ DO KISHIMOTO?",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=dKLP_Yhdt30",
-      "publishedAt": "2026-10-26",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
