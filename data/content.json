@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-11T17:32:51.324Z",
+  "updatedAt": "2026-11-12T17:47:15.379Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ET DE VARGINHA: A VERDADE 30 ANOS DEPOIS!",
+      "title": "A WANDA VOLTOU! ANÁLISE DA CENA PÓS-CRÉDITO DE VISION QUEST!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=-AUcslKbpc4",
-      "publishedAt": "2026-11-11",
+      "url": "https://www.youtube.com/watch?v=J95gGvKAX7c",
+      "publishedAt": "2026-11-12",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ET DE VARGINHA: A VERDADE 30 ANOS DEPOIS!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=-AUcslKbpc4",
+      "publishedAt": "2026-11-11",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "JAMES GUNN DEMITIDO KKKKKKKKKK [O dia mais feliz da minha vida]",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/TUEkFy5q3lo",
       "publishedAt": "2026-10-28",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "PETER CONHECEU O PEQUENO EI NERD E FALOU SOBRE O FUTURO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/_3M4qtW_Ze4",
-      "publishedAt": "2026-10-27",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
