@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T17:47:15.379Z",
+  "updatedAt": "2026-11-13T17:25:22.049Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A WANDA VOLTOU! ANÁLISE DA CENA PÓS-CRÉDITO DE VISION QUEST!",
+      "title": "VAZOU O CAST DOS NOVOS X-MEN DA MARVEL!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=J95gGvKAX7c",
-      "publishedAt": "2026-11-12",
+      "url": "https://www.youtube.com/watch?v=_dGWHGlhcGk",
+      "publishedAt": "2026-11-13",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A WANDA VOLTOU! ANÁLISE DA CENA PÓS-CRÉDITO DE VISION QUEST!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=J95gGvKAX7c",
+      "publishedAt": "2026-11-12",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ET DE VARGINHA: A VERDADE 30 ANOS DEPOIS!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/Ti-DrnM0T14",
       "publishedAt": "2026-10-29",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ESSE LIVE ACTION DE BEN 10 SERIA INCRÍVEL",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/TUEkFy5q3lo",
-      "publishedAt": "2026-10-28",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
