@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-13T17:25:22.049Z",
+  "updatedAt": "2026-11-14T16:13:36.361Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "VAZOU O CAST DOS NOVOS X-MEN DA MARVEL!",
+      "title": "PUTZ, NETFLIX...",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=_dGWHGlhcGk",
-      "publishedAt": "2026-11-13",
+      "url": "https://www.youtube.com/watch?v=48JPw6IkI6A",
+      "publishedAt": "2026-11-14",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "VAZOU O CAST DOS NOVOS X-MEN DA MARVEL!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=_dGWHGlhcGk",
+      "publishedAt": "2026-11-13",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A WANDA VOLTOU! ANÁLISE DA CENA PÓS-CRÉDITO DE VISION QUEST!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=yidbpwaslTM",
       "publishedAt": "2026-10-30",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "RIRAM DO CARRO VOADOR DO ELON MUSK",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/Ti-DrnM0T14",
-      "publishedAt": "2026-10-29",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
