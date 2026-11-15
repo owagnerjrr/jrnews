@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-14T16:13:36.361Z",
+  "updatedAt": "2026-11-15T16:41:42.197Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "PUTZ, NETFLIX...",
+      "title": "A IA HACKEOU O SWITCH 2 E A NINTENDO DEU O TROCO!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=48JPw6IkI6A",
-      "publishedAt": "2026-11-14",
+      "url": "https://www.youtube.com/watch?v=EzcaeXGRWvU",
+      "publishedAt": "2026-11-15",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "PUTZ, NETFLIX...",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=48JPw6IkI6A",
+      "publishedAt": "2026-11-14",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "VAZOU O CAST DOS NOVOS X-MEN DA MARVEL!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/qTAfNsgarTU",
       "publishedAt": "2026-10-31",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "COMO DBS: BEERUS SALVOU O VEGETA DA HUMILHAÇÃO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=yidbpwaslTM",
-      "publishedAt": "2026-10-30",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
