@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-15T16:41:42.197Z",
+  "updatedAt": "2026-11-16T19:55:33.467Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A IA HACKEOU O SWITCH 2 E A NINTENDO DEU O TROCO!",
+      "title": "CONFIRMADO O NOVO 007 E VAI SER O BATMAN!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=EzcaeXGRWvU",
-      "publishedAt": "2026-11-15",
+      "url": "https://www.youtube.com/shorts/UoveLsRAjZY",
+      "publishedAt": "2026-11-16",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A IA HACKEOU O SWITCH 2 E A NINTENDO DEU O TROCO!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=EzcaeXGRWvU",
+      "publishedAt": "2026-11-15",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "PUTZ, NETFLIX...",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=V6tcO46_GzM",
       "publishedAt": "2026-11-01",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "AGORA VOCÊ PODE CONTROLAR UM ROBÔ PELO CELULAR",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/qTAfNsgarTU",
-      "publishedAt": "2026-10-31",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
