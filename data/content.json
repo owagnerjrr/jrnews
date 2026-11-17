@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-16T19:55:33.467Z",
+  "updatedAt": "2026-11-17T18:51:32.162Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "CONFIRMADO O NOVO 007 E VAI SER O BATMAN!",
+      "title": "POUSO INACREDITÁVEL - A NAVE FOI NO ESPAÇO E VOLTOU PELA 1⁰ VEZ NA HISTÓRIA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/UoveLsRAjZY",
-      "publishedAt": "2026-11-16",
+      "url": "https://www.youtube.com/watch?v=9GP3BLC_6Og",
+      "publishedAt": "2026-11-17",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "CONFIRMADO O NOVO 007 E VAI SER O BATMAN!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/UoveLsRAjZY",
+      "publishedAt": "2026-11-16",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A IA HACKEOU O SWITCH 2 E A NINTENDO DEU O TROCO!",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/shorts/DYc0rw6hXYc",
       "publishedAt": "2026-11-02",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ELON MUSK LANÇOU \"A ODISSEIA\" FEITA POR IA PRA RIVALIZAR COM NOLAN [o resultado é bizzaro]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=V6tcO46_GzM",
-      "publishedAt": "2026-11-01",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
