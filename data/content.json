@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-18T18:29:43.225Z",
+  "updatedAt": "2026-11-19T18:43:54.839Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ESSA IA CRIOU UM JOGO DO ZERO EM POUCAS HORAS",
+      "title": "THOR VAI GANHAR A ODIN FORCE E O RAIO AMARELO É A PROVA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/gjgS9rfKMpk",
-      "publishedAt": "2026-11-18",
+      "url": "https://www.youtube.com/watch?v=-rDJSmYUb2I",
+      "publishedAt": "2026-11-19",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ESSA IA CRIOU UM JOGO DO ZERO EM POUCAS HORAS",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/gjgS9rfKMpk",
+      "publishedAt": "2026-11-18",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "POUSO INACREDITÁVEL - A NAVE FOI NO ESPAÇO E VOLTOU PELA 1⁰ VEZ NA HISTÓRIA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=QUcUalX1OYY",
       "publishedAt": "2026-11-04",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "O DEUS SAIYAJIN APARECEU E CALOU OS HATERS - Análise DBS: Beerus EP. 4",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Vnr1mNPCChc",
-      "publishedAt": "2026-11-03",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
