@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-20T18:07:35.967Z",
+  "updatedAt": "2026-11-21T17:00:06.813Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ROBERT PATTINSON PODE ABANDONAR O BATMAN!",
+      "title": "A HBO ESTRAGOU HARRY POTTER?",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=IrgGaXCV0Ww",
-      "publishedAt": "2026-11-20",
+      "url": "https://www.youtube.com/watch?v=i1sOd4hdvgw",
+      "publishedAt": "2026-11-21",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ROBERT PATTINSON PODE ABANDONAR O BATMAN!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=IrgGaXCV0Ww",
+      "publishedAt": "2026-11-20",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "THOR VAI GANHAR A ODIN FORCE E O RAIO AMARELO É A PROVA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=vFRRYAxmtuk",
       "publishedAt": "2026-11-06",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A TOEI FINALMENTE CORRIGIU O MAIOR ERRO DO BILLS EM DRAGON BALL SUPER?",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Fbh8Zp8nI_Q",
-      "publishedAt": "2026-11-05",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
