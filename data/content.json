@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-22T17:28:48.051Z",
+  "updatedAt": "2026-11-23T21:48:54.224Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "A PRIMEIRA VEZ QUE O FOGUETE DEU RÉ E ENCAIXOU NA TORRE",
+      "title": "REACT DO TRAILER FINAL - VINGADORES: DOUTOR DESTINO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/EMCgzifnt30",
-      "publishedAt": "2026-11-22",
+      "url": "https://www.youtube.com/watch?v=Js6XYTp0d74",
+      "publishedAt": "2026-11-23",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "A PRIMEIRA VEZ QUE O FOGUETE DEU RÉ E ENCAIXOU NA TORRE",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/EMCgzifnt30",
+      "publishedAt": "2026-11-22",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A HBO ESTRAGOU HARRY POTTER?",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=QMiiTfXDdkQ",
       "publishedAt": "2026-11-08",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "KLARA AND THE SUN: O PIOR FILME DO ANO",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=ZTAcc-vMRLs",
-      "publishedAt": "2026-11-07",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
