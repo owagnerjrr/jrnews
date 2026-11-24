@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-23T21:48:54.224Z",
+  "updatedAt": "2026-11-24T20:25:36.906Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "REACT DO TRAILER FINAL - VINGADORES: DOUTOR DESTINO",
+      "title": "ASSISTI EU SOU O ROCKY - MINHA OPINIÃO SINCERA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=Js6XYTp0d74",
-      "publishedAt": "2026-11-23",
+      "url": "https://www.youtube.com/watch?v=vOawr9pAmCg",
+      "publishedAt": "2026-11-24",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "REACT DO TRAILER FINAL - VINGADORES: DOUTOR DESTINO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=Js6XYTp0d74",
+      "publishedAt": "2026-11-23",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "A PRIMEIRA VEZ QUE O FOGUETE DEU RÉ E ENCAIXOU NA TORRE",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=b5LERnbegnY",
       "publishedAt": "2026-11-09",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "GAMEPLAY EXCLUSIVA DE GTA 6 NO SOUTH PARK [Dá pra jogar cocô]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=QMiiTfXDdkQ",
-      "publishedAt": "2026-11-08",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
