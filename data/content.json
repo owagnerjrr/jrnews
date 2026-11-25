@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-24T20:25:36.906Z",
+  "updatedAt": "2026-11-25T19:39:31.035Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ASSISTI EU SOU O ROCKY - MINHA OPINIÃO SINCERA",
+      "title": "SE ALISTOU NO EXÉRCITO PRA JOGAR GTA 6 POR MAIS TEMPO",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=vOawr9pAmCg",
-      "publishedAt": "2026-11-24",
+      "url": "https://www.youtube.com/shorts/OAwOUFQC8f0",
+      "publishedAt": "2026-11-25",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ASSISTI EU SOU O ROCKY - MINHA OPINIÃO SINCERA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=vOawr9pAmCg",
+      "publishedAt": "2026-11-24",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "REACT DO TRAILER FINAL - VINGADORES: DOUTOR DESTINO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=0xc_F7912Fk",
       "publishedAt": "2026-11-10",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "GTA 6: A CAIXA DO JOGO VAZOU O MODO ONLINE!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=b5LERnbegnY",
-      "publishedAt": "2026-11-09",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
