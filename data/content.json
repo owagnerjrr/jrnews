@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-25T19:39:31.035Z",
+  "updatedAt": "2026-11-26T19:20:06.995Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "SE ALISTOU NO EXÉRCITO PRA JOGAR GTA 6 POR MAIS TEMPO",
+      "title": "ROBERT PATTINSON GANHO 1 MILHÃO PARA O 007 ATÉ AGORA",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/OAwOUFQC8f0",
-      "publishedAt": "2026-11-25",
+      "url": "https://www.youtube.com/shorts/yXVD28ruAUA",
+      "publishedAt": "2026-11-26",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "SE ALISTOU NO EXÉRCITO PRA JOGAR GTA 6 POR MAIS TEMPO",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/OAwOUFQC8f0",
+      "publishedAt": "2026-11-25",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ASSISTI EU SOU O ROCKY - MINHA OPINIÃO SINCERA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=-AUcslKbpc4",
       "publishedAt": "2026-11-11",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "JAMES GUNN DEMITIDO KKKKKKKKKK [O dia mais feliz da minha vida]",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=0xc_F7912Fk",
-      "publishedAt": "2026-11-10",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
