@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T19:20:06.995Z",
+  "updatedAt": "2026-11-27T19:15:12.113Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "ROBERT PATTINSON GANHO 1 MILHÃO PARA O 007 ATÉ AGORA",
+      "title": "MAGNETO vs DESTINO - NOVO TEASER INSANO!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/shorts/yXVD28ruAUA",
-      "publishedAt": "2026-11-26",
+      "url": "https://www.youtube.com/watch?v=RJl3l8EYVDY",
+      "publishedAt": "2026-11-27",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "ROBERT PATTINSON GANHO 1 MILHÃO PARA O 007 ATÉ AGORA",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/shorts/yXVD28ruAUA",
+      "publishedAt": "2026-11-26",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "SE ALISTOU NO EXÉRCITO PRA JOGAR GTA 6 POR MAIS TEMPO",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=J95gGvKAX7c",
       "publishedAt": "2026-11-12",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "ET DE VARGINHA: A VERDADE 30 ANOS DEPOIS!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=-AUcslKbpc4",
-      "publishedAt": "2026-11-11",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
