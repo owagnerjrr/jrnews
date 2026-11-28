@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-27T19:15:12.113Z",
+  "updatedAt": "2026-11-28T17:51:50.069Z",
   "editorNote": "Atualizado automaticamente pelo GitHub Actions às 7h de Brasília.",
   "items": [
     {
-      "title": "MAGNETO vs DESTINO - NOVO TEASER INSANO!",
+      "title": "O TEMPO NÃO EXISTE!",
       "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
       "category": "Vídeos",
       "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=RJl3l8EYVDY",
-      "publishedAt": "2026-11-27",
+      "url": "https://www.youtube.com/watch?v=mp6nctCzH38",
+      "publishedAt": "2026-11-28",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     },
@@ -31,6 +31,16 @@
       "publishedAt": "2026-05-19",
       "image": "./assets/thumb-games.svg",
       "tag": "Xbox"
+    },
+    {
+      "title": "MAGNETO vs DESTINO - NOVO TEASER INSANO!",
+      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
+      "category": "Vídeos",
+      "source": "YouTube / Ei Nerd",
+      "url": "https://www.youtube.com/watch?v=RJl3l8EYVDY",
+      "publishedAt": "2026-11-27",
+      "image": "./assets/thumb-video.svg",
+      "tag": "YouTube"
     },
     {
       "title": "ROBERT PATTINSON GANHO 1 MILHÃO PARA O 007 ATÉ AGORA",
@@ -169,16 +179,6 @@
       "source": "YouTube / Ei Nerd",
       "url": "https://www.youtube.com/watch?v=_dGWHGlhcGk",
       "publishedAt": "2026-11-13",
-      "image": "./assets/thumb-video.svg",
-      "tag": "YouTube"
-    },
-    {
-      "title": "A WANDA VOLTOU! ANÁLISE DA CENA PÓS-CRÉDITO DE VISION QUEST!",
-      "summary": "Atualização automática via RSS do canal Ei Nerd para a área de cultura pop, filmes, séries, animes e games.",
-      "category": "Vídeos",
-      "source": "YouTube / Ei Nerd",
-      "url": "https://www.youtube.com/watch?v=J95gGvKAX7c",
-      "publishedAt": "2026-11-12",
       "image": "./assets/thumb-video.svg",
       "tag": "YouTube"
     }
